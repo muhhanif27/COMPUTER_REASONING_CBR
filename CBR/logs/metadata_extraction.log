@@ -1,0 +1,1543 @@
+2025-06-22 19:44:25,417 - Starting metadata extraction process at 19:44:25  on Sunday, June 22, 2025
+2025-06-22 19:44:25,420 - Found 60 text files to process in d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\raw
+2025-06-22 19:44:25,423 - No nomor_perkara found in case_001.txt with primary pattern
+2025-06-22 19:44:25,429 - Extracted metadata from case_001.txt
+2025-06-22 19:44:25,430 - Processed text file: case_001.txt
+2025-06-22 19:44:25,455 - No nomor_perkara found in case_002.txt with primary pattern
+2025-06-22 19:44:25,457 - No penggugat found in case_002.txt
+2025-06-22 19:44:25,459 - No tergugat found in case_002.txt
+2025-06-22 19:44:25,462 - No ringkasan_fakta found in case_002.txt
+2025-06-22 19:44:25,463 - Extracted metadata from case_002.txt
+2025-06-22 19:44:25,464 - Processed text file: case_002.txt
+2025-06-22 19:44:25,491 - No nomor_perkara found in case_003.txt with primary pattern
+2025-06-22 19:44:25,516 - No tergugat found in case_003.txt
+2025-06-22 19:44:25,525 - No ringkasan_fakta found in case_003.txt
+2025-06-22 19:44:25,529 - Extracted metadata from case_003.txt
+2025-06-22 19:44:25,533 - Processed text file: case_003.txt
+2025-06-22 19:44:25,563 - No nomor_perkara found in case_004.txt with primary pattern
+2025-06-22 19:44:25,565 - No penggugat found in case_004.txt
+2025-06-22 19:44:25,566 - No tergugat found in case_004.txt
+2025-06-22 19:44:25,568 - No ringkasan_fakta found in case_004.txt
+2025-06-22 19:44:25,569 - Extracted metadata from case_004.txt
+2025-06-22 19:44:25,570 - Processed text file: case_004.txt
+2025-06-22 19:44:25,599 - No nomor_perkara found in case_005.txt with primary pattern
+2025-06-22 19:44:25,602 - No penggugat found in case_005.txt
+2025-06-22 19:44:25,603 - No tergugat found in case_005.txt
+2025-06-22 19:44:25,605 - No ringkasan_fakta found in case_005.txt
+2025-06-22 19:44:25,606 - Extracted metadata from case_005.txt
+2025-06-22 19:44:25,607 - Processed text file: case_005.txt
+2025-06-22 19:44:25,630 - No nomor_perkara found in case_006.txt with primary pattern
+2025-06-22 19:44:25,632 - Extracted metadata from case_006.txt
+2025-06-22 19:44:25,634 - Processed text file: case_006.txt
+2025-06-22 19:44:25,656 - No nomor_perkara found in case_007.txt with primary pattern
+2025-06-22 19:44:25,657 - No penggugat found in case_007.txt
+2025-06-22 19:44:25,658 - No tergugat found in case_007.txt
+2025-06-22 19:44:25,660 - No ringkasan_fakta found in case_007.txt
+2025-06-22 19:44:25,661 - Extracted metadata from case_007.txt
+2025-06-22 19:44:25,662 - Processed text file: case_007.txt
+2025-06-22 19:44:25,681 - No nomor_perkara found in case_008.txt with primary pattern
+2025-06-22 19:44:25,683 - No penggugat found in case_008.txt
+2025-06-22 19:44:25,684 - No tergugat found in case_008.txt
+2025-06-22 19:44:25,685 - No ringkasan_fakta found in case_008.txt
+2025-06-22 19:44:25,687 - Extracted metadata from case_008.txt
+2025-06-22 19:44:25,687 - Processed text file: case_008.txt
+2025-06-22 19:44:25,707 - No nomor_perkara found in case_009.txt with primary pattern
+2025-06-22 19:44:25,708 - No penggugat found in case_009.txt
+2025-06-22 19:44:25,709 - No tergugat found in case_009.txt
+2025-06-22 19:44:25,712 - No ringkasan_fakta found in case_009.txt
+2025-06-22 19:44:25,713 - Extracted metadata from case_009.txt
+2025-06-22 19:44:25,714 - Processed text file: case_009.txt
+2025-06-22 19:44:25,715 - No nomor_perkara found in case_010.txt with primary pattern
+2025-06-22 19:44:25,715 - No penggugat found in case_010.txt
+2025-06-22 19:44:25,716 - No tergugat found in case_010.txt
+2025-06-22 19:44:25,718 - No ringkasan_fakta found in case_010.txt
+2025-06-22 19:44:25,718 - Extracted metadata from case_010.txt
+2025-06-22 19:44:25,719 - Processed text file: case_010.txt
+2025-06-22 19:44:25,736 - No nomor_perkara found in case_011.txt with primary pattern
+2025-06-22 19:44:25,737 - No penggugat found in case_011.txt
+2025-06-22 19:44:25,737 - No tergugat found in case_011.txt
+2025-06-22 19:44:25,739 - No ringkasan_fakta found in case_011.txt
+2025-06-22 19:44:25,740 - Extracted metadata from case_011.txt
+2025-06-22 19:44:25,740 - Processed text file: case_011.txt
+2025-06-22 19:44:25,757 - No nomor_perkara found in case_012.txt with primary pattern
+2025-06-22 19:44:25,758 - No penggugat found in case_012.txt
+2025-06-22 19:44:25,758 - No tergugat found in case_012.txt
+2025-06-22 19:44:25,760 - No ringkasan_fakta found in case_012.txt
+2025-06-22 19:44:25,762 - Extracted metadata from case_012.txt
+2025-06-22 19:44:25,763 - Processed text file: case_012.txt
+2025-06-22 19:44:25,779 - No nomor_perkara found in case_013.txt with primary pattern
+2025-06-22 19:44:25,781 - Extracted metadata from case_013.txt
+2025-06-22 19:44:25,782 - Processed text file: case_013.txt
+2025-06-22 19:44:25,809 - No nomor_perkara found in case_014.txt with primary pattern
+2025-06-22 19:44:25,812 - Extracted metadata from case_014.txt
+2025-06-22 19:44:25,812 - Processed text file: case_014.txt
+2025-06-22 19:44:25,813 - No nomor_perkara found in case_015.txt with primary pattern
+2025-06-22 19:44:25,814 - No penggugat found in case_015.txt
+2025-06-22 19:44:25,815 - No tergugat found in case_015.txt
+2025-06-22 19:44:25,816 - No ringkasan_fakta found in case_015.txt
+2025-06-22 19:44:25,817 - Extracted metadata from case_015.txt
+2025-06-22 19:44:25,817 - Processed text file: case_015.txt
+2025-06-22 19:44:25,838 - No nomor_perkara found in case_016.txt with primary pattern
+2025-06-22 19:44:25,843 - No penggugat found in case_016.txt
+2025-06-22 19:44:25,848 - No tergugat found in case_016.txt
+2025-06-22 19:44:25,849 - Extracted metadata from case_016.txt
+2025-06-22 19:44:25,850 - Processed text file: case_016.txt
+2025-06-22 19:44:25,876 - No nomor_perkara found in case_017.txt with primary pattern
+2025-06-22 19:44:25,877 - No penggugat found in case_017.txt
+2025-06-22 19:44:25,879 - No tergugat found in case_017.txt
+2025-06-22 19:44:25,881 - No ringkasan_fakta found in case_017.txt
+2025-06-22 19:44:25,882 - Extracted metadata from case_017.txt
+2025-06-22 19:44:25,883 - Processed text file: case_017.txt
+2025-06-22 19:44:25,907 - No nomor_perkara found in case_018.txt with primary pattern
+2025-06-22 19:44:25,909 - No penggugat found in case_018.txt
+2025-06-22 19:44:25,910 - No tergugat found in case_018.txt
+2025-06-22 19:44:25,912 - No ringkasan_fakta found in case_018.txt
+2025-06-22 19:44:25,913 - Extracted metadata from case_018.txt
+2025-06-22 19:44:25,914 - Processed text file: case_018.txt
+2025-06-22 19:44:25,915 - No nomor_perkara found in case_019.txt with primary pattern
+2025-06-22 19:44:25,917 - No ringkasan_fakta found in case_019.txt
+2025-06-22 19:44:25,918 - Extracted metadata from case_019.txt
+2025-06-22 19:44:25,919 - Processed text file: case_019.txt
+2025-06-22 19:44:25,939 - No nomor_perkara found in case_020.txt with primary pattern
+2025-06-22 19:44:25,941 - No penggugat found in case_020.txt
+2025-06-22 19:44:25,942 - No tergugat found in case_020.txt
+2025-06-22 19:44:25,944 - No ringkasan_fakta found in case_020.txt
+2025-06-22 19:44:25,946 - Extracted metadata from case_020.txt
+2025-06-22 19:44:25,946 - Processed text file: case_020.txt
+2025-06-22 19:44:25,967 - No nomor_perkara found in case_021.txt with primary pattern
+2025-06-22 19:44:25,969 - No penggugat found in case_021.txt
+2025-06-22 19:44:25,971 - No tergugat found in case_021.txt
+2025-06-22 19:44:25,973 - No ringkasan_fakta found in case_021.txt
+2025-06-22 19:44:25,975 - Extracted metadata from case_021.txt
+2025-06-22 19:44:25,975 - Processed text file: case_021.txt
+2025-06-22 19:44:25,997 - No nomor_perkara found in case_022.txt with primary pattern
+2025-06-22 19:44:25,997 - No penggugat found in case_022.txt
+2025-06-22 19:44:25,999 - No tergugat found in case_022.txt
+2025-06-22 19:44:26,000 - No ringkasan_fakta found in case_022.txt
+2025-06-22 19:44:26,001 - Extracted metadata from case_022.txt
+2025-06-22 19:44:26,002 - Processed text file: case_022.txt
+2025-06-22 19:44:26,022 - No nomor_perkara found in case_023.txt with primary pattern
+2025-06-22 19:44:26,027 - No ringkasan_fakta found in case_023.txt
+2025-06-22 19:44:26,028 - Extracted metadata from case_023.txt
+2025-06-22 19:44:26,029 - Processed text file: case_023.txt
+2025-06-22 19:44:26,030 - No nomor_perkara found in case_024.txt with primary pattern
+2025-06-22 19:44:26,032 - No penggugat found in case_024.txt
+2025-06-22 19:44:26,033 - No tergugat found in case_024.txt
+2025-06-22 19:44:26,034 - No ringkasan_fakta found in case_024.txt
+2025-06-22 19:44:26,035 - Extracted metadata from case_024.txt
+2025-06-22 19:44:26,035 - Processed text file: case_024.txt
+2025-06-22 19:44:26,055 - No nomor_perkara found in case_025.txt with primary pattern
+2025-06-22 19:44:26,057 - No penggugat found in case_025.txt
+2025-06-22 19:44:26,058 - No tergugat found in case_025.txt
+2025-06-22 19:44:26,060 - No ringkasan_fakta found in case_025.txt
+2025-06-22 19:44:26,062 - Extracted metadata from case_025.txt
+2025-06-22 19:44:26,063 - Processed text file: case_025.txt
+2025-06-22 19:44:26,087 - No nomor_perkara found in case_026.txt with primary pattern
+2025-06-22 19:44:26,088 - No penggugat found in case_026.txt
+2025-06-22 19:44:26,089 - No tergugat found in case_026.txt
+2025-06-22 19:44:26,091 - No ringkasan_fakta found in case_026.txt
+2025-06-22 19:44:26,093 - Extracted metadata from case_026.txt
+2025-06-22 19:44:26,095 - Processed text file: case_026.txt
+2025-06-22 19:44:26,115 - No nomor_perkara found in case_027.txt with primary pattern
+2025-06-22 19:44:26,117 - No penggugat found in case_027.txt
+2025-06-22 19:44:26,120 - No tergugat found in case_027.txt
+2025-06-22 19:44:26,124 - No ringkasan_fakta found in case_027.txt
+2025-06-22 19:44:26,125 - Extracted metadata from case_027.txt
+2025-06-22 19:44:26,126 - Processed text file: case_027.txt
+2025-06-22 19:44:26,145 - No nomor_perkara found in case_028.txt with primary pattern
+2025-06-22 19:44:26,147 - No penggugat found in case_028.txt
+2025-06-22 19:44:26,148 - No tergugat found in case_028.txt
+2025-06-22 19:44:26,150 - No ringkasan_fakta found in case_028.txt
+2025-06-22 19:44:26,151 - Extracted metadata from case_028.txt
+2025-06-22 19:44:26,151 - Processed text file: case_028.txt
+2025-06-22 19:44:26,170 - No nomor_perkara found in case_029.txt with primary pattern
+2025-06-22 19:44:26,171 - No penggugat found in case_029.txt
+2025-06-22 19:44:26,173 - No tergugat found in case_029.txt
+2025-06-22 19:44:26,175 - No ringkasan_fakta found in case_029.txt
+2025-06-22 19:44:26,177 - Extracted metadata from case_029.txt
+2025-06-22 19:44:26,177 - Processed text file: case_029.txt
+2025-06-22 19:44:26,198 - No nomor_perkara found in case_030.txt with primary pattern
+2025-06-22 19:44:26,199 - No penggugat found in case_030.txt
+2025-06-22 19:44:26,200 - No tergugat found in case_030.txt
+2025-06-22 19:44:26,201 - No ringkasan_fakta found in case_030.txt
+2025-06-22 19:44:26,202 - Extracted metadata from case_030.txt
+2025-06-22 19:44:26,203 - Processed text file: case_030.txt
+2025-06-22 19:44:26,221 - No nomor_perkara found in case_031.txt with primary pattern
+2025-06-22 19:44:26,223 - No penggugat found in case_031.txt
+2025-06-22 19:44:26,224 - No tergugat found in case_031.txt
+2025-06-22 19:44:26,226 - No ringkasan_fakta found in case_031.txt
+2025-06-22 19:44:26,227 - Extracted metadata from case_031.txt
+2025-06-22 19:44:26,232 - Processed text file: case_031.txt
+2025-06-22 19:44:26,254 - No nomor_perkara found in case_032.txt with primary pattern
+2025-06-22 19:44:26,255 - No penggugat found in case_032.txt
+2025-06-22 19:44:26,257 - No tergugat found in case_032.txt
+2025-06-22 19:44:26,259 - No ringkasan_fakta found in case_032.txt
+2025-06-22 19:44:26,260 - Extracted metadata from case_032.txt
+2025-06-22 19:44:26,261 - Processed text file: case_032.txt
+2025-06-22 19:44:26,278 - No nomor_perkara found in case_033.txt with primary pattern
+2025-06-22 19:44:26,281 - No penggugat found in case_033.txt
+2025-06-22 19:44:26,282 - No tergugat found in case_033.txt
+2025-06-22 19:44:26,284 - No ringkasan_fakta found in case_033.txt
+2025-06-22 19:44:26,285 - Extracted metadata from case_033.txt
+2025-06-22 19:44:26,285 - Processed text file: case_033.txt
+2025-06-22 19:44:26,303 - No nomor_perkara found in case_034.txt with primary pattern
+2025-06-22 19:44:26,304 - No penggugat found in case_034.txt
+2025-06-22 19:44:26,305 - No tergugat found in case_034.txt
+2025-06-22 19:44:26,306 - No ringkasan_fakta found in case_034.txt
+2025-06-22 19:44:26,307 - Extracted metadata from case_034.txt
+2025-06-22 19:44:26,308 - Processed text file: case_034.txt
+2025-06-22 19:44:26,331 - No nomor_perkara found in case_035.txt with primary pattern
+2025-06-22 19:44:26,333 - No penggugat found in case_035.txt
+2025-06-22 19:44:26,334 - No tergugat found in case_035.txt
+2025-06-22 19:44:26,335 - No ringkasan_fakta found in case_035.txt
+2025-06-22 19:44:26,336 - Extracted metadata from case_035.txt
+2025-06-22 19:44:26,337 - Processed text file: case_035.txt
+2025-06-22 19:44:26,355 - No nomor_perkara found in case_036.txt with primary pattern
+2025-06-22 19:44:26,357 - No penggugat found in case_036.txt
+2025-06-22 19:44:26,358 - No tergugat found in case_036.txt
+2025-06-22 19:44:26,359 - No hakim_ketua found in case_036.txt
+2025-06-22 19:44:26,360 - No ringkasan_fakta found in case_036.txt
+2025-06-22 19:44:26,366 - Extracted metadata from case_036.txt
+2025-06-22 19:44:26,386 - Processed text file: case_036.txt
+2025-06-22 19:44:26,422 - No nomor_perkara found in case_037.txt with primary pattern
+2025-06-22 19:44:26,425 - Extracted metadata from case_037.txt
+2025-06-22 19:44:26,425 - Processed text file: case_037.txt
+2025-06-22 19:44:26,448 - No nomor_perkara found in case_038.txt with primary pattern
+2025-06-22 19:44:26,450 - No penggugat found in case_038.txt
+2025-06-22 19:44:26,451 - No tergugat found in case_038.txt
+2025-06-22 19:44:26,452 - No ringkasan_fakta found in case_038.txt
+2025-06-22 19:44:26,453 - Extracted metadata from case_038.txt
+2025-06-22 19:44:26,453 - Processed text file: case_038.txt
+2025-06-22 19:44:26,472 - No nomor_perkara found in case_039.txt with primary pattern
+2025-06-22 19:44:26,473 - No penggugat found in case_039.txt
+2025-06-22 19:44:26,474 - No tergugat found in case_039.txt
+2025-06-22 19:44:26,475 - No ringkasan_fakta found in case_039.txt
+2025-06-22 19:44:26,476 - Extracted metadata from case_039.txt
+2025-06-22 19:44:26,477 - Processed text file: case_039.txt
+2025-06-22 19:44:26,496 - No nomor_perkara found in case_040.txt with primary pattern
+2025-06-22 19:44:26,497 - No penggugat found in case_040.txt
+2025-06-22 19:44:26,499 - No tergugat found in case_040.txt
+2025-06-22 19:44:26,501 - No ringkasan_fakta found in case_040.txt
+2025-06-22 19:44:26,501 - Extracted metadata from case_040.txt
+2025-06-22 19:44:26,502 - Processed text file: case_040.txt
+2025-06-22 19:44:26,525 - No nomor_perkara found in case_041.txt with primary pattern
+2025-06-22 19:44:26,526 - No penggugat found in case_041.txt
+2025-06-22 19:44:26,527 - No tergugat found in case_041.txt
+2025-06-22 19:44:26,529 - No ringkasan_fakta found in case_041.txt
+2025-06-22 19:44:26,530 - Extracted metadata from case_041.txt
+2025-06-22 19:44:26,531 - Processed text file: case_041.txt
+2025-06-22 19:44:26,554 - No nomor_perkara found in case_042.txt with primary pattern
+2025-06-22 19:44:26,556 - No penggugat found in case_042.txt
+2025-06-22 19:44:26,557 - No tergugat found in case_042.txt
+2025-06-22 19:44:26,561 - No ringkasan_fakta found in case_042.txt
+2025-06-22 19:44:26,562 - Extracted metadata from case_042.txt
+2025-06-22 19:44:26,563 - Processed text file: case_042.txt
+2025-06-22 19:44:26,583 - No nomor_perkara found in case_043.txt with primary pattern
+2025-06-22 19:44:26,584 - No penggugat found in case_043.txt
+2025-06-22 19:44:26,585 - No tergugat found in case_043.txt
+2025-06-22 19:44:26,587 - No ringkasan_fakta found in case_043.txt
+2025-06-22 19:44:26,588 - Extracted metadata from case_043.txt
+2025-06-22 19:44:26,588 - Processed text file: case_043.txt
+2025-06-22 19:44:26,606 - No nomor_perkara found in case_044.txt with primary pattern
+2025-06-22 19:44:26,607 - No penggugat found in case_044.txt
+2025-06-22 19:44:26,608 - No tergugat found in case_044.txt
+2025-06-22 19:44:26,609 - No ringkasan_fakta found in case_044.txt
+2025-06-22 19:44:26,611 - Extracted metadata from case_044.txt
+2025-06-22 19:44:26,611 - Processed text file: case_044.txt
+2025-06-22 19:44:26,631 - No nomor_perkara found in case_045.txt with primary pattern
+2025-06-22 19:44:26,635 - Extracted metadata from case_045.txt
+2025-06-22 19:44:26,635 - Processed text file: case_045.txt
+2025-06-22 19:44:26,661 - No nomor_perkara found in case_046.txt with primary pattern
+2025-06-22 19:44:26,663 - No penggugat found in case_046.txt
+2025-06-22 19:44:26,664 - No tergugat found in case_046.txt
+2025-06-22 19:44:26,666 - No ringkasan_fakta found in case_046.txt
+2025-06-22 19:44:26,667 - Extracted metadata from case_046.txt
+2025-06-22 19:44:26,667 - Processed text file: case_046.txt
+2025-06-22 19:44:26,688 - No nomor_perkara found in case_047.txt with primary pattern
+2025-06-22 19:44:26,690 - No penggugat found in case_047.txt
+2025-06-22 19:44:26,691 - No tergugat found in case_047.txt
+2025-06-22 19:44:26,692 - No ringkasan_fakta found in case_047.txt
+2025-06-22 19:44:26,693 - Extracted metadata from case_047.txt
+2025-06-22 19:44:26,694 - Processed text file: case_047.txt
+2025-06-22 19:44:26,719 - No nomor_perkara found in case_048.txt with primary pattern
+2025-06-22 19:44:26,720 - No penggugat found in case_048.txt
+2025-06-22 19:44:26,721 - No tergugat found in case_048.txt
+2025-06-22 19:44:26,723 - No ringkasan_fakta found in case_048.txt
+2025-06-22 19:44:26,724 - Extracted metadata from case_048.txt
+2025-06-22 19:44:26,724 - Processed text file: case_048.txt
+2025-06-22 19:44:26,745 - No nomor_perkara found in case_049.txt with primary pattern
+2025-06-22 19:44:26,747 - No penggugat found in case_049.txt
+2025-06-22 19:44:26,748 - No tergugat found in case_049.txt
+2025-06-22 19:44:26,750 - No ringkasan_fakta found in case_049.txt
+2025-06-22 19:44:26,751 - Extracted metadata from case_049.txt
+2025-06-22 19:44:26,752 - Processed text file: case_049.txt
+2025-06-22 19:44:26,773 - No nomor_perkara found in case_050.txt with primary pattern
+2025-06-22 19:44:26,774 - No penggugat found in case_050.txt
+2025-06-22 19:44:26,776 - No tergugat found in case_050.txt
+2025-06-22 19:44:26,778 - No ringkasan_fakta found in case_050.txt
+2025-06-22 19:44:26,780 - Extracted metadata from case_050.txt
+2025-06-22 19:44:26,780 - Processed text file: case_050.txt
+2025-06-22 19:44:26,799 - No nomor_perkara found in case_051.txt with primary pattern
+2025-06-22 19:44:26,801 - Extracted metadata from case_051.txt
+2025-06-22 19:44:26,802 - Processed text file: case_051.txt
+2025-06-22 19:44:26,821 - No nomor_perkara found in case_052.txt with primary pattern
+2025-06-22 19:44:26,823 - No penggugat found in case_052.txt
+2025-06-22 19:44:26,824 - No tergugat found in case_052.txt
+2025-06-22 19:44:26,825 - No ringkasan_fakta found in case_052.txt
+2025-06-22 19:44:26,827 - Extracted metadata from case_052.txt
+2025-06-22 19:44:26,828 - Processed text file: case_052.txt
+2025-06-22 19:44:26,845 - No nomor_perkara found in case_053.txt with primary pattern
+2025-06-22 19:44:26,847 - No penggugat found in case_053.txt
+2025-06-22 19:44:26,848 - No tergugat found in case_053.txt
+2025-06-22 19:44:26,849 - No ringkasan_fakta found in case_053.txt
+2025-06-22 19:44:26,850 - Extracted metadata from case_053.txt
+2025-06-22 19:44:26,851 - Processed text file: case_053.txt
+2025-06-22 19:44:26,870 - No nomor_perkara found in case_054.txt with primary pattern
+2025-06-22 19:44:26,871 - No penggugat found in case_054.txt
+2025-06-22 19:44:26,872 - No tergugat found in case_054.txt
+2025-06-22 19:44:26,874 - No ringkasan_fakta found in case_054.txt
+2025-06-22 19:44:26,875 - Extracted metadata from case_054.txt
+2025-06-22 19:44:26,875 - Processed text file: case_054.txt
+2025-06-22 19:44:26,892 - No nomor_perkara found in case_055.txt with primary pattern
+2025-06-22 19:44:26,895 - Extracted metadata from case_055.txt
+2025-06-22 19:44:26,896 - Processed text file: case_055.txt
+2025-06-22 19:44:26,917 - No nomor_perkara found in case_056.txt with primary pattern
+2025-06-22 19:44:26,918 - No penggugat found in case_056.txt
+2025-06-22 19:44:26,919 - No tergugat found in case_056.txt
+2025-06-22 19:44:26,921 - No ringkasan_fakta found in case_056.txt
+2025-06-22 19:44:26,922 - Extracted metadata from case_056.txt
+2025-06-22 19:44:26,922 - Processed text file: case_056.txt
+2025-06-22 19:44:26,942 - No nomor_perkara found in case_057.txt with primary pattern
+2025-06-22 19:44:26,943 - No penggugat found in case_057.txt
+2025-06-22 19:44:26,943 - No tergugat found in case_057.txt
+2025-06-22 19:44:26,944 - No ringkasan_fakta found in case_057.txt
+2025-06-22 19:44:26,946 - Extracted metadata from case_057.txt
+2025-06-22 19:44:26,946 - Processed text file: case_057.txt
+2025-06-22 19:44:26,963 - No nomor_perkara found in case_058.txt with primary pattern
+2025-06-22 19:44:26,965 - No penggugat found in case_058.txt
+2025-06-22 19:44:26,966 - No tergugat found in case_058.txt
+2025-06-22 19:44:26,968 - No ringkasan_fakta found in case_058.txt
+2025-06-22 19:44:26,969 - Extracted metadata from case_058.txt
+2025-06-22 19:44:26,970 - Processed text file: case_058.txt
+2025-06-22 19:44:26,996 - No nomor_perkara found in case_059.txt with primary pattern
+2025-06-22 19:44:26,998 - No penggugat found in case_059.txt
+2025-06-22 19:44:26,999 - No tergugat found in case_059.txt
+2025-06-22 19:44:27,000 - No ringkasan_fakta found in case_059.txt
+2025-06-22 19:44:27,001 - Extracted metadata from case_059.txt
+2025-06-22 19:44:27,002 - Processed text file: case_059.txt
+2025-06-22 19:44:27,022 - No nomor_perkara found in case_060.txt with primary pattern
+2025-06-22 19:44:27,024 - Extracted metadata from case_060.txt
+2025-06-22 19:44:27,025 - Processed text file: case_060.txt
+2025-06-22 19:44:27,029 - Saved metadata to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 19:44:27,030 - Processed 60 files and saved to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 19:51:46,451 - Starting metadata extraction process at 19:51:46  on Sunday, June 22, 2025
+2025-06-22 19:51:46,454 - Found 60 text files to process in d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\raw
+2025-06-22 19:51:46,456 - Extracted nomor_perkara: 10 pk pdt sus pailit 2025 for case_001.txt
+2025-06-22 19:51:46,457 - Extracted metadata from case_001.txt
+2025-06-22 19:51:46,458 - Processed text file: case_001.txt
+2025-06-22 19:51:46,459 - No nomor_perkara found in case_002.txt
+2025-06-22 19:51:46,460 - Extracted nomor_perkara:  for case_002.txt
+2025-06-22 19:51:46,461 - No ringkasan_fakta found in case_002.txt
+2025-06-22 19:51:46,462 - Extracted metadata from case_002.txt
+2025-06-22 19:51:46,463 - Processed text file: case_002.txt
+2025-06-22 19:51:46,464 - Extracted nomor_perkara: 11 pk pdt sus pailit 2025 for case_003.txt
+2025-06-22 19:51:46,466 - No ringkasan_fakta found in case_003.txt
+2025-06-22 19:51:46,467 - Extracted metadata from case_003.txt
+2025-06-22 19:51:46,468 - Processed text file: case_003.txt
+2025-06-22 19:51:46,469 - No nomor_perkara found in case_004.txt
+2025-06-22 19:51:46,470 - Extracted nomor_perkara:  for case_004.txt
+2025-06-22 19:51:46,472 - No ringkasan_fakta found in case_004.txt
+2025-06-22 19:51:46,473 - Extracted metadata from case_004.txt
+2025-06-22 19:51:46,473 - Processed text file: case_004.txt
+2025-06-22 19:51:46,474 - No nomor_perkara found in case_005.txt
+2025-06-22 19:51:46,475 - Extracted nomor_perkara:  for case_005.txt
+2025-06-22 19:51:46,478 - No ringkasan_fakta found in case_005.txt
+2025-06-22 19:51:46,479 - Extracted metadata from case_005.txt
+2025-06-22 19:51:46,480 - Processed text file: case_005.txt
+2025-06-22 19:51:46,481 - Extracted nomor_perkara: 12 pk pdt sus pailit 2025 for case_006.txt
+2025-06-22 19:51:46,482 - Extracted metadata from case_006.txt
+2025-06-22 19:51:46,483 - Processed text file: case_006.txt
+2025-06-22 19:51:46,484 - No nomor_perkara found in case_007.txt
+2025-06-22 19:51:46,485 - Extracted nomor_perkara:  for case_007.txt
+2025-06-22 19:51:46,487 - No ringkasan_fakta found in case_007.txt
+2025-06-22 19:51:46,488 - Extracted metadata from case_007.txt
+2025-06-22 19:51:46,489 - Processed text file: case_007.txt
+2025-06-22 19:51:46,490 - No nomor_perkara found in case_008.txt
+2025-06-22 19:51:46,491 - Extracted nomor_perkara:  for case_008.txt
+2025-06-22 19:51:46,493 - No ringkasan_fakta found in case_008.txt
+2025-06-22 19:51:46,493 - Extracted metadata from case_008.txt
+2025-06-22 19:51:46,494 - Processed text file: case_008.txt
+2025-06-22 19:51:46,496 - No nomor_perkara found in case_009.txt
+2025-06-22 19:51:46,497 - Extracted nomor_perkara:  for case_009.txt
+2025-06-22 19:51:46,498 - No ringkasan_fakta found in case_009.txt
+2025-06-22 19:51:46,499 - Extracted metadata from case_009.txt
+2025-06-22 19:51:46,499 - Processed text file: case_009.txt
+2025-06-22 19:51:46,501 - No nomor_perkara found in case_010.txt
+2025-06-22 19:51:46,501 - Extracted nomor_perkara:  for case_010.txt
+2025-06-22 19:51:46,503 - No ringkasan_fakta found in case_010.txt
+2025-06-22 19:51:46,504 - Extracted metadata from case_010.txt
+2025-06-22 19:51:46,505 - Processed text file: case_010.txt
+2025-06-22 19:51:46,506 - No nomor_perkara found in case_011.txt
+2025-06-22 19:51:46,507 - Extracted nomor_perkara:  for case_011.txt
+2025-06-22 19:51:46,509 - No ringkasan_fakta found in case_011.txt
+2025-06-22 19:51:46,510 - Extracted metadata from case_011.txt
+2025-06-22 19:51:46,510 - Processed text file: case_011.txt
+2025-06-22 19:51:46,512 - No nomor_perkara found in case_012.txt
+2025-06-22 19:51:46,512 - Extracted nomor_perkara:  for case_012.txt
+2025-06-22 19:51:46,514 - No ringkasan_fakta found in case_012.txt
+2025-06-22 19:51:46,515 - Extracted metadata from case_012.txt
+2025-06-22 19:51:46,516 - Processed text file: case_012.txt
+2025-06-22 19:51:46,517 - Extracted nomor_perkara: 13 pk pdt sus pailit 2025 for case_013.txt
+2025-06-22 19:51:46,519 - Extracted metadata from case_013.txt
+2025-06-22 19:51:46,519 - Processed text file: case_013.txt
+2025-06-22 19:51:46,520 - Extracted nomor_perkara: 15 pk pdt sus pailit 2025 for case_014.txt
+2025-06-22 19:51:46,524 - Extracted metadata from case_014.txt
+2025-06-22 19:51:46,526 - Processed text file: case_014.txt
+2025-06-22 19:51:46,527 - No nomor_perkara found in case_015.txt
+2025-06-22 19:51:46,527 - Extracted nomor_perkara:  for case_015.txt
+2025-06-22 19:51:46,529 - No ringkasan_fakta found in case_015.txt
+2025-06-22 19:51:46,530 - Extracted metadata from case_015.txt
+2025-06-22 19:51:46,531 - Processed text file: case_015.txt
+2025-06-22 19:51:46,533 - Extracted nomor_perkara: 17 pk pdt sus pailit 2025 for case_016.txt
+2025-06-22 19:51:46,535 - Extracted metadata from case_016.txt
+2025-06-22 19:51:46,535 - Processed text file: case_016.txt
+2025-06-22 19:51:46,537 - No nomor_perkara found in case_017.txt
+2025-06-22 19:51:46,538 - Extracted nomor_perkara:  for case_017.txt
+2025-06-22 19:51:46,540 - No ringkasan_fakta found in case_017.txt
+2025-06-22 19:51:46,541 - Extracted metadata from case_017.txt
+2025-06-22 19:51:46,542 - Processed text file: case_017.txt
+2025-06-22 19:51:46,543 - No nomor_perkara found in case_018.txt
+2025-06-22 19:51:46,544 - Extracted nomor_perkara:  for case_018.txt
+2025-06-22 19:51:46,545 - No ringkasan_fakta found in case_018.txt
+2025-06-22 19:51:46,546 - Extracted metadata from case_018.txt
+2025-06-22 19:51:46,547 - Processed text file: case_018.txt
+2025-06-22 19:51:46,548 - No nomor_perkara found in case_019.txt
+2025-06-22 19:51:46,549 - Extracted nomor_perkara:  for case_019.txt
+2025-06-22 19:51:46,550 - No ringkasan_fakta found in case_019.txt
+2025-06-22 19:51:46,551 - Extracted metadata from case_019.txt
+2025-06-22 19:51:46,556 - Processed text file: case_019.txt
+2025-06-22 19:51:46,560 - No nomor_perkara found in case_020.txt
+2025-06-22 19:51:46,562 - Extracted nomor_perkara:  for case_020.txt
+2025-06-22 19:51:46,564 - No ringkasan_fakta found in case_020.txt
+2025-06-22 19:51:46,565 - Extracted metadata from case_020.txt
+2025-06-22 19:51:46,566 - Processed text file: case_020.txt
+2025-06-22 19:51:46,567 - No nomor_perkara found in case_021.txt
+2025-06-22 19:51:46,568 - Extracted nomor_perkara:  for case_021.txt
+2025-06-22 19:51:46,572 - No ringkasan_fakta found in case_021.txt
+2025-06-22 19:51:46,574 - Extracted metadata from case_021.txt
+2025-06-22 19:51:46,575 - Processed text file: case_021.txt
+2025-06-22 19:51:46,576 - No nomor_perkara found in case_022.txt
+2025-06-22 19:51:46,576 - Extracted nomor_perkara:  for case_022.txt
+2025-06-22 19:51:46,578 - No ringkasan_fakta found in case_022.txt
+2025-06-22 19:51:46,578 - Extracted metadata from case_022.txt
+2025-06-22 19:51:46,579 - Processed text file: case_022.txt
+2025-06-22 19:51:46,580 - No nomor_perkara found in case_023.txt
+2025-06-22 19:51:46,580 - Extracted nomor_perkara:  for case_023.txt
+2025-06-22 19:51:46,582 - No ringkasan_fakta found in case_023.txt
+2025-06-22 19:51:46,583 - Extracted metadata from case_023.txt
+2025-06-22 19:51:46,584 - Processed text file: case_023.txt
+2025-06-22 19:51:46,586 - No nomor_perkara found in case_024.txt
+2025-06-22 19:51:46,587 - Extracted nomor_perkara:  for case_024.txt
+2025-06-22 19:51:46,589 - No ringkasan_fakta found in case_024.txt
+2025-06-22 19:51:46,590 - Extracted metadata from case_024.txt
+2025-06-22 19:51:46,591 - Processed text file: case_024.txt
+2025-06-22 19:51:46,592 - No nomor_perkara found in case_025.txt
+2025-06-22 19:51:46,593 - Extracted nomor_perkara:  for case_025.txt
+2025-06-22 19:51:46,595 - No ringkasan_fakta found in case_025.txt
+2025-06-22 19:51:46,595 - Extracted metadata from case_025.txt
+2025-06-22 19:51:46,596 - Processed text file: case_025.txt
+2025-06-22 19:51:46,597 - No nomor_perkara found in case_026.txt
+2025-06-22 19:51:46,597 - Extracted nomor_perkara:  for case_026.txt
+2025-06-22 19:51:46,599 - No ringkasan_fakta found in case_026.txt
+2025-06-22 19:51:46,600 - Extracted metadata from case_026.txt
+2025-06-22 19:51:46,601 - Processed text file: case_026.txt
+2025-06-22 19:51:46,602 - No nomor_perkara found in case_027.txt
+2025-06-22 19:51:46,603 - Extracted nomor_perkara:  for case_027.txt
+2025-06-22 19:51:46,606 - No ringkasan_fakta found in case_027.txt
+2025-06-22 19:51:46,607 - Extracted metadata from case_027.txt
+2025-06-22 19:51:46,608 - Processed text file: case_027.txt
+2025-06-22 19:51:46,609 - No nomor_perkara found in case_028.txt
+2025-06-22 19:51:46,609 - Extracted nomor_perkara:  for case_028.txt
+2025-06-22 19:51:46,610 - No ringkasan_fakta found in case_028.txt
+2025-06-22 19:51:46,611 - Extracted metadata from case_028.txt
+2025-06-22 19:51:46,612 - Processed text file: case_028.txt
+2025-06-22 19:51:46,613 - No nomor_perkara found in case_029.txt
+2025-06-22 19:51:46,613 - Extracted nomor_perkara:  for case_029.txt
+2025-06-22 19:51:46,616 - No ringkasan_fakta found in case_029.txt
+2025-06-22 19:51:46,617 - Extracted metadata from case_029.txt
+2025-06-22 19:51:46,618 - Processed text file: case_029.txt
+2025-06-22 19:51:46,619 - No nomor_perkara found in case_030.txt
+2025-06-22 19:51:46,619 - Extracted nomor_perkara:  for case_030.txt
+2025-06-22 19:51:46,621 - No ringkasan_fakta found in case_030.txt
+2025-06-22 19:51:46,622 - Extracted metadata from case_030.txt
+2025-06-22 19:51:46,622 - Processed text file: case_030.txt
+2025-06-22 19:51:46,624 - No nomor_perkara found in case_031.txt
+2025-06-22 19:51:46,625 - Extracted nomor_perkara:  for case_031.txt
+2025-06-22 19:51:46,626 - No ringkasan_fakta found in case_031.txt
+2025-06-22 19:51:46,627 - Extracted metadata from case_031.txt
+2025-06-22 19:51:46,628 - Processed text file: case_031.txt
+2025-06-22 19:51:46,629 - No nomor_perkara found in case_032.txt
+2025-06-22 19:51:46,630 - Extracted nomor_perkara:  for case_032.txt
+2025-06-22 19:51:46,632 - No ringkasan_fakta found in case_032.txt
+2025-06-22 19:51:46,633 - Extracted metadata from case_032.txt
+2025-06-22 19:51:46,634 - Processed text file: case_032.txt
+2025-06-22 19:51:46,635 - No nomor_perkara found in case_033.txt
+2025-06-22 19:51:46,636 - Extracted nomor_perkara:  for case_033.txt
+2025-06-22 19:51:46,639 - No ringkasan_fakta found in case_033.txt
+2025-06-22 19:51:46,640 - Extracted metadata from case_033.txt
+2025-06-22 19:51:46,641 - Processed text file: case_033.txt
+2025-06-22 19:51:46,641 - No nomor_perkara found in case_034.txt
+2025-06-22 19:51:46,642 - Extracted nomor_perkara:  for case_034.txt
+2025-06-22 19:51:46,643 - No ringkasan_fakta found in case_034.txt
+2025-06-22 19:51:46,644 - Extracted metadata from case_034.txt
+2025-06-22 19:51:46,644 - Processed text file: case_034.txt
+2025-06-22 19:51:46,646 - No nomor_perkara found in case_035.txt
+2025-06-22 19:51:46,646 - Extracted nomor_perkara:  for case_035.txt
+2025-06-22 19:51:46,649 - No ringkasan_fakta found in case_035.txt
+2025-06-22 19:51:46,650 - Extracted metadata from case_035.txt
+2025-06-22 19:51:46,651 - Processed text file: case_035.txt
+2025-06-22 19:51:46,652 - No nomor_perkara found in case_036.txt
+2025-06-22 19:51:46,652 - Extracted nomor_perkara:  for case_036.txt
+2025-06-22 19:51:46,654 - No hakim_ketua found in case_036.txt
+2025-06-22 19:51:46,655 - No ringkasan_fakta found in case_036.txt
+2025-06-22 19:51:46,656 - Extracted metadata from case_036.txt
+2025-06-22 19:51:46,657 - Processed text file: case_036.txt
+2025-06-22 19:51:46,657 - Extracted nomor_perkara: 3 pk pdt sus pailit 2025 for case_037.txt
+2025-06-22 19:51:46,659 - Extracted metadata from case_037.txt
+2025-06-22 19:51:46,659 - Processed text file: case_037.txt
+2025-06-22 19:51:46,660 - No nomor_perkara found in case_038.txt
+2025-06-22 19:51:46,661 - Extracted nomor_perkara:  for case_038.txt
+2025-06-22 19:51:46,663 - No ringkasan_fakta found in case_038.txt
+2025-06-22 19:51:46,663 - Extracted metadata from case_038.txt
+2025-06-22 19:51:46,664 - Processed text file: case_038.txt
+2025-06-22 19:51:46,666 - No nomor_perkara found in case_039.txt
+2025-06-22 19:51:46,666 - Extracted nomor_perkara:  for case_039.txt
+2025-06-22 19:51:46,668 - No ringkasan_fakta found in case_039.txt
+2025-06-22 19:51:46,669 - Extracted metadata from case_039.txt
+2025-06-22 19:51:46,669 - Processed text file: case_039.txt
+2025-06-22 19:51:46,671 - No nomor_perkara found in case_040.txt
+2025-06-22 19:51:46,671 - Extracted nomor_perkara:  for case_040.txt
+2025-06-22 19:51:46,674 - No ringkasan_fakta found in case_040.txt
+2025-06-22 19:51:46,675 - Extracted metadata from case_040.txt
+2025-06-22 19:51:46,675 - Processed text file: case_040.txt
+2025-06-22 19:51:46,676 - No nomor_perkara found in case_041.txt
+2025-06-22 19:51:46,677 - Extracted nomor_perkara:  for case_041.txt
+2025-06-22 19:51:46,679 - No ringkasan_fakta found in case_041.txt
+2025-06-22 19:51:46,680 - Extracted metadata from case_041.txt
+2025-06-22 19:51:46,681 - Processed text file: case_041.txt
+2025-06-22 19:51:46,682 - No nomor_perkara found in case_042.txt
+2025-06-22 19:51:46,683 - Extracted nomor_perkara:  for case_042.txt
+2025-06-22 19:51:46,685 - No ringkasan_fakta found in case_042.txt
+2025-06-22 19:51:46,686 - Extracted metadata from case_042.txt
+2025-06-22 19:51:46,687 - Processed text file: case_042.txt
+2025-06-22 19:51:46,688 - No nomor_perkara found in case_043.txt
+2025-06-22 19:51:46,689 - Extracted nomor_perkara:  for case_043.txt
+2025-06-22 19:51:46,690 - No ringkasan_fakta found in case_043.txt
+2025-06-22 19:51:46,691 - Extracted metadata from case_043.txt
+2025-06-22 19:51:46,691 - Processed text file: case_043.txt
+2025-06-22 19:51:46,692 - No nomor_perkara found in case_044.txt
+2025-06-22 19:51:46,693 - Extracted nomor_perkara:  for case_044.txt
+2025-06-22 19:51:46,695 - No ringkasan_fakta found in case_044.txt
+2025-06-22 19:51:46,696 - Extracted metadata from case_044.txt
+2025-06-22 19:51:46,696 - Processed text file: case_044.txt
+2025-06-22 19:51:46,697 - Extracted nomor_perkara: 4 pk pdt sus pailit 2025 for case_045.txt
+2025-06-22 19:51:46,699 - Extracted metadata from case_045.txt
+2025-06-22 19:51:46,699 - Processed text file: case_045.txt
+2025-06-22 19:51:46,700 - No nomor_perkara found in case_046.txt
+2025-06-22 19:51:46,701 - Extracted nomor_perkara:  for case_046.txt
+2025-06-22 19:51:46,704 - No ringkasan_fakta found in case_046.txt
+2025-06-22 19:51:46,705 - Extracted metadata from case_046.txt
+2025-06-22 19:51:46,706 - Processed text file: case_046.txt
+2025-06-22 19:51:46,707 - No nomor_perkara found in case_047.txt
+2025-06-22 19:51:46,708 - Extracted nomor_perkara:  for case_047.txt
+2025-06-22 19:51:46,709 - No ringkasan_fakta found in case_047.txt
+2025-06-22 19:51:46,710 - Extracted metadata from case_047.txt
+2025-06-22 19:51:46,711 - Processed text file: case_047.txt
+2025-06-22 19:51:46,712 - No nomor_perkara found in case_048.txt
+2025-06-22 19:51:46,713 - Extracted nomor_perkara:  for case_048.txt
+2025-06-22 19:51:46,714 - No ringkasan_fakta found in case_048.txt
+2025-06-22 19:51:46,714 - Extracted metadata from case_048.txt
+2025-06-22 19:51:46,715 - Processed text file: case_048.txt
+2025-06-22 19:51:46,716 - No nomor_perkara found in case_049.txt
+2025-06-22 19:51:46,718 - Extracted nomor_perkara:  for case_049.txt
+2025-06-22 19:51:46,720 - No ringkasan_fakta found in case_049.txt
+2025-06-22 19:51:46,720 - Extracted metadata from case_049.txt
+2025-06-22 19:51:46,721 - Processed text file: case_049.txt
+2025-06-22 19:51:46,723 - No nomor_perkara found in case_050.txt
+2025-06-22 19:51:46,723 - Extracted nomor_perkara:  for case_050.txt
+2025-06-22 19:51:46,726 - No ringkasan_fakta found in case_050.txt
+2025-06-22 19:51:46,727 - Extracted metadata from case_050.txt
+2025-06-22 19:51:46,727 - Processed text file: case_050.txt
+2025-06-22 19:51:46,729 - Extracted nomor_perkara: 63 pk pdt sus pailit 2024 for case_051.txt
+2025-06-22 19:51:46,731 - Extracted metadata from case_051.txt
+2025-06-22 19:51:46,732 - Processed text file: case_051.txt
+2025-06-22 19:51:46,733 - No nomor_perkara found in case_052.txt
+2025-06-22 19:51:46,734 - Extracted nomor_perkara:  for case_052.txt
+2025-06-22 19:51:46,735 - No ringkasan_fakta found in case_052.txt
+2025-06-22 19:51:46,736 - Extracted metadata from case_052.txt
+2025-06-22 19:51:46,737 - Processed text file: case_052.txt
+2025-06-22 19:51:46,739 - No nomor_perkara found in case_053.txt
+2025-06-22 19:51:46,739 - Extracted nomor_perkara:  for case_053.txt
+2025-06-22 19:51:46,741 - No ringkasan_fakta found in case_053.txt
+2025-06-22 19:51:46,742 - Extracted metadata from case_053.txt
+2025-06-22 19:51:46,743 - Processed text file: case_053.txt
+2025-06-22 19:51:46,744 - No nomor_perkara found in case_054.txt
+2025-06-22 19:51:46,744 - Extracted nomor_perkara:  for case_054.txt
+2025-06-22 19:51:46,746 - No ringkasan_fakta found in case_054.txt
+2025-06-22 19:51:46,747 - Extracted metadata from case_054.txt
+2025-06-22 19:51:46,747 - Processed text file: case_054.txt
+2025-06-22 19:51:46,748 - Extracted nomor_perkara: 70 pk pdt sus pailit 2024 for case_055.txt
+2025-06-22 19:51:46,750 - Extracted metadata from case_055.txt
+2025-06-22 19:51:46,750 - Processed text file: case_055.txt
+2025-06-22 19:51:46,751 - No nomor_perkara found in case_056.txt
+2025-06-22 19:51:46,753 - Extracted nomor_perkara:  for case_056.txt
+2025-06-22 19:51:46,754 - No ringkasan_fakta found in case_056.txt
+2025-06-22 19:51:46,755 - Extracted metadata from case_056.txt
+2025-06-22 19:51:46,756 - Processed text file: case_056.txt
+2025-06-22 19:51:46,757 - No nomor_perkara found in case_057.txt
+2025-06-22 19:51:46,757 - Extracted nomor_perkara:  for case_057.txt
+2025-06-22 19:51:46,759 - No ringkasan_fakta found in case_057.txt
+2025-06-22 19:51:46,760 - Extracted metadata from case_057.txt
+2025-06-22 19:51:46,760 - Processed text file: case_057.txt
+2025-06-22 19:51:46,761 - No nomor_perkara found in case_058.txt
+2025-06-22 19:51:46,762 - Extracted nomor_perkara:  for case_058.txt
+2025-06-22 19:51:46,764 - No ringkasan_fakta found in case_058.txt
+2025-06-22 19:51:46,765 - Extracted metadata from case_058.txt
+2025-06-22 19:51:46,765 - Processed text file: case_058.txt
+2025-06-22 19:51:46,766 - No nomor_perkara found in case_059.txt
+2025-06-22 19:51:46,766 - Extracted nomor_perkara:  for case_059.txt
+2025-06-22 19:51:46,767 - No ringkasan_fakta found in case_059.txt
+2025-06-22 19:51:46,768 - Extracted metadata from case_059.txt
+2025-06-22 19:51:46,769 - Processed text file: case_059.txt
+2025-06-22 19:51:46,769 - Extracted nomor_perkara: 9 pk pdt sus pailit 2025 for case_060.txt
+2025-06-22 19:51:46,771 - Extracted metadata from case_060.txt
+2025-06-22 19:51:46,772 - Processed text file: case_060.txt
+2025-06-22 19:51:46,774 - Saved metadata to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 19:51:46,775 - Processed 60 files and saved to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 19:54:42,846 - Starting metadata extraction process at 19:54:42  on Sunday, June 22, 2025
+2025-06-22 19:54:42,849 - Found 60 text files to process in d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\raw
+2025-06-22 19:54:42,852 - Extracted nomor_perkara: 10 pk pdt sus pailit 2025 for case_001.txt
+2025-06-22 19:54:42,854 - Extracted metadata from case_001.txt
+2025-06-22 19:54:42,855 - Processed text file: case_001.txt
+2025-06-22 19:54:42,856 - Extracted nomor_perkara: 1178 k pdt sus pailit 2024 for case_002.txt
+2025-06-22 19:54:42,858 - No ringkasan_fakta found in case_002.txt
+2025-06-22 19:54:42,859 - Extracted metadata from case_002.txt
+2025-06-22 19:54:42,860 - Processed text file: case_002.txt
+2025-06-22 19:54:42,862 - Extracted nomor_perkara: 11 pk pdt sus pailit 2025 for case_003.txt
+2025-06-22 19:54:42,865 - No ringkasan_fakta found in case_003.txt
+2025-06-22 19:54:42,866 - Extracted metadata from case_003.txt
+2025-06-22 19:54:42,868 - Processed text file: case_003.txt
+2025-06-22 19:54:42,869 - Extracted nomor_perkara: 1227 k pdt sus pailit 2024 for case_004.txt
+2025-06-22 19:54:42,872 - No ringkasan_fakta found in case_004.txt
+2025-06-22 19:54:42,874 - Extracted metadata from case_004.txt
+2025-06-22 19:54:42,875 - Processed text file: case_004.txt
+2025-06-22 19:54:42,876 - Extracted nomor_perkara: 123 k pdt sus pailit 2025 for case_005.txt
+2025-06-22 19:54:42,879 - No ringkasan_fakta found in case_005.txt
+2025-06-22 19:54:42,880 - Extracted metadata from case_005.txt
+2025-06-22 19:54:42,882 - Processed text file: case_005.txt
+2025-06-22 19:54:42,884 - Extracted nomor_perkara: 12 pk pdt sus pailit 2025 for case_006.txt
+2025-06-22 19:54:42,887 - Extracted metadata from case_006.txt
+2025-06-22 19:54:42,888 - Processed text file: case_006.txt
+2025-06-22 19:54:42,889 - Extracted nomor_perkara: 1318 k pdt sus pailit 2024 for case_007.txt
+2025-06-22 19:54:42,891 - No ringkasan_fakta found in case_007.txt
+2025-06-22 19:54:42,893 - Extracted metadata from case_007.txt
+2025-06-22 19:54:42,893 - Processed text file: case_007.txt
+2025-06-22 19:54:42,895 - Extracted nomor_perkara: 1345 k pdt sus pailit 2024 for case_008.txt
+2025-06-22 19:54:42,899 - No ringkasan_fakta found in case_008.txt
+2025-06-22 19:54:42,900 - Extracted metadata from case_008.txt
+2025-06-22 19:54:42,901 - Processed text file: case_008.txt
+2025-06-22 19:54:42,903 - Extracted nomor_perkara: 134 k pdt sus pailit 2025 for case_009.txt
+2025-06-22 19:54:42,904 - No ringkasan_fakta found in case_009.txt
+2025-06-22 19:54:42,905 - Extracted metadata from case_009.txt
+2025-06-22 19:54:42,906 - Processed text file: case_009.txt
+2025-06-22 19:54:42,907 - Extracted nomor_perkara: 135 k pdt sus pailit 2025 for case_010.txt
+2025-06-22 19:54:42,909 - No ringkasan_fakta found in case_010.txt
+2025-06-22 19:54:42,911 - Extracted metadata from case_010.txt
+2025-06-22 19:54:42,912 - Processed text file: case_010.txt
+2025-06-22 19:54:42,914 - Extracted nomor_perkara: 137 k pdt sus pailit 2025 for case_011.txt
+2025-06-22 19:54:42,916 - No ringkasan_fakta found in case_011.txt
+2025-06-22 19:54:42,917 - Extracted metadata from case_011.txt
+2025-06-22 19:54:42,918 - Processed text file: case_011.txt
+2025-06-22 19:54:42,920 - Extracted nomor_perkara: 13 k pdt sus pailit 2025 for case_012.txt
+2025-06-22 19:54:42,922 - No ringkasan_fakta found in case_012.txt
+2025-06-22 19:54:42,924 - Extracted metadata from case_012.txt
+2025-06-22 19:54:42,925 - Processed text file: case_012.txt
+2025-06-22 19:54:42,926 - Extracted nomor_perkara: 13 pk pdt sus pailit 2025 for case_013.txt
+2025-06-22 19:54:42,928 - Extracted metadata from case_013.txt
+2025-06-22 19:54:42,930 - Processed text file: case_013.txt
+2025-06-22 19:54:42,932 - Extracted nomor_perkara: 15 pk pdt sus pailit 2025 for case_014.txt
+2025-06-22 19:54:42,934 - Extracted metadata from case_014.txt
+2025-06-22 19:54:42,935 - Processed text file: case_014.txt
+2025-06-22 19:54:42,937 - No nomor_perkara found in case_015.txt
+2025-06-22 19:54:42,937 - Extracted nomor_perkara:  for case_015.txt
+2025-06-22 19:54:42,939 - No ringkasan_fakta found in case_015.txt
+2025-06-22 19:54:42,941 - Extracted metadata from case_015.txt
+2025-06-22 19:54:42,941 - Processed text file: case_015.txt
+2025-06-22 19:54:42,943 - Extracted nomor_perkara: 17 pk pdt sus pailit 2025 for case_016.txt
+2025-06-22 19:54:42,945 - Extracted metadata from case_016.txt
+2025-06-22 19:54:42,946 - Processed text file: case_016.txt
+2025-06-22 19:54:42,947 - Extracted nomor_perkara: 185 k pdt sus pailit 2025 for case_017.txt
+2025-06-22 19:54:42,949 - No ringkasan_fakta found in case_017.txt
+2025-06-22 19:54:42,949 - Extracted metadata from case_017.txt
+2025-06-22 19:54:42,951 - Processed text file: case_017.txt
+2025-06-22 19:54:42,953 - Extracted nomor_perkara: 187 k pdt sus pailit 2025 for case_018.txt
+2025-06-22 19:54:42,955 - No ringkasan_fakta found in case_018.txt
+2025-06-22 19:54:42,956 - Extracted metadata from case_018.txt
+2025-06-22 19:54:42,956 - Processed text file: case_018.txt
+2025-06-22 19:54:42,957 - Extracted nomor_perkara: 203 k pdt sus pailit 2025 for case_019.txt
+2025-06-22 19:54:42,959 - No ringkasan_fakta found in case_019.txt
+2025-06-22 19:54:42,960 - Extracted metadata from case_019.txt
+2025-06-22 19:54:42,961 - Processed text file: case_019.txt
+2025-06-22 19:54:42,963 - Extracted nomor_perkara: 204 k pdt sus pailit 2025 for case_020.txt
+2025-06-22 19:54:42,965 - No ringkasan_fakta found in case_020.txt
+2025-06-22 19:54:42,966 - Extracted metadata from case_020.txt
+2025-06-22 19:54:42,967 - Processed text file: case_020.txt
+2025-06-22 19:54:42,969 - Extracted nomor_perkara: 24 k pdt sus pailit 2025 for case_021.txt
+2025-06-22 19:54:42,973 - No ringkasan_fakta found in case_021.txt
+2025-06-22 19:54:42,975 - Extracted metadata from case_021.txt
+2025-06-22 19:54:42,976 - Processed text file: case_021.txt
+2025-06-22 19:54:42,977 - Extracted nomor_perkara: 260 k pdt sus pailit 2025 for case_022.txt
+2025-06-22 19:54:42,980 - No ringkasan_fakta found in case_022.txt
+2025-06-22 19:54:42,981 - Extracted metadata from case_022.txt
+2025-06-22 19:54:42,982 - Processed text file: case_022.txt
+2025-06-22 19:54:42,982 - Extracted nomor_perkara: 261 k pdt sus pailit 2025 for case_023.txt
+2025-06-22 19:54:42,985 - No ringkasan_fakta found in case_023.txt
+2025-06-22 19:54:42,985 - Extracted metadata from case_023.txt
+2025-06-22 19:54:42,987 - Processed text file: case_023.txt
+2025-06-22 19:54:42,988 - Extracted nomor_perkara: 265 k pdt sus pailit 2025 for case_024.txt
+2025-06-22 19:54:42,989 - No ringkasan_fakta found in case_024.txt
+2025-06-22 19:54:42,990 - Extracted metadata from case_024.txt
+2025-06-22 19:54:42,991 - Processed text file: case_024.txt
+2025-06-22 19:54:42,992 - Extracted nomor_perkara: 277 k pdt sus pailit 2025 for case_025.txt
+2025-06-22 19:54:42,994 - No ringkasan_fakta found in case_025.txt
+2025-06-22 19:54:42,996 - Extracted metadata from case_025.txt
+2025-06-22 19:54:42,996 - Processed text file: case_025.txt
+2025-06-22 19:54:42,998 - Extracted nomor_perkara: 281 k pdt sus pailit 2025 for case_026.txt
+2025-06-22 19:54:43,001 - No ringkasan_fakta found in case_026.txt
+2025-06-22 19:54:43,002 - Extracted metadata from case_026.txt
+2025-06-22 19:54:43,002 - Processed text file: case_026.txt
+2025-06-22 19:54:43,003 - Extracted nomor_perkara: 297 k pdt sus pailit 2025 for case_027.txt
+2025-06-22 19:54:43,007 - No ringkasan_fakta found in case_027.txt
+2025-06-22 19:54:43,009 - Extracted metadata from case_027.txt
+2025-06-22 19:54:43,010 - Processed text file: case_027.txt
+2025-06-22 19:54:43,012 - Extracted nomor_perkara: 305 k pdt sus pailit 2025 for case_028.txt
+2025-06-22 19:54:43,014 - No ringkasan_fakta found in case_028.txt
+2025-06-22 19:54:43,015 - Extracted metadata from case_028.txt
+2025-06-22 19:54:43,016 - Processed text file: case_028.txt
+2025-06-22 19:54:43,018 - Extracted nomor_perkara: 307 k pdt sus pailit 2025 for case_029.txt
+2025-06-22 19:54:43,020 - No ringkasan_fakta found in case_029.txt
+2025-06-22 19:54:43,022 - Extracted metadata from case_029.txt
+2025-06-22 19:54:43,023 - Processed text file: case_029.txt
+2025-06-22 19:54:43,025 - Extracted nomor_perkara: 308 k pdt sus pailit 2025 for case_030.txt
+2025-06-22 19:54:43,027 - No ringkasan_fakta found in case_030.txt
+2025-06-22 19:54:43,028 - Extracted metadata from case_030.txt
+2025-06-22 19:54:43,029 - Processed text file: case_030.txt
+2025-06-22 19:54:43,031 - Extracted nomor_perkara: 323 k pdt sus pailit 2025 for case_031.txt
+2025-06-22 19:54:43,033 - No ringkasan_fakta found in case_031.txt
+2025-06-22 19:54:43,034 - Extracted metadata from case_031.txt
+2025-06-22 19:54:43,035 - Processed text file: case_031.txt
+2025-06-22 19:54:43,037 - Extracted nomor_perkara: 344 k pdt sus pailit 2025 for case_032.txt
+2025-06-22 19:54:43,040 - No ringkasan_fakta found in case_032.txt
+2025-06-22 19:54:43,042 - Extracted metadata from case_032.txt
+2025-06-22 19:54:43,043 - Processed text file: case_032.txt
+2025-06-22 19:54:43,044 - Extracted nomor_perkara: 36 k pdt sus pailit 2025 for case_033.txt
+2025-06-22 19:54:43,047 - No ringkasan_fakta found in case_033.txt
+2025-06-22 19:54:43,048 - Extracted metadata from case_033.txt
+2025-06-22 19:54:43,049 - Processed text file: case_033.txt
+2025-06-22 19:54:43,051 - Extracted nomor_perkara: 370 k pdt sus pailit 2025 for case_034.txt
+2025-06-22 19:54:43,053 - No ringkasan_fakta found in case_034.txt
+2025-06-22 19:54:43,054 - Extracted metadata from case_034.txt
+2025-06-22 19:54:43,055 - Processed text file: case_034.txt
+2025-06-22 19:54:43,057 - Extracted nomor_perkara: 38 k pdt sus pailit 2025 for case_035.txt
+2025-06-22 19:54:43,058 - No ringkasan_fakta found in case_035.txt
+2025-06-22 19:54:43,059 - Extracted metadata from case_035.txt
+2025-06-22 19:54:43,060 - Processed text file: case_035.txt
+2025-06-22 19:54:43,062 - No nomor_perkara found in case_036.txt
+2025-06-22 19:54:43,062 - Extracted nomor_perkara:  for case_036.txt
+2025-06-22 19:54:43,065 - No hakim_ketua found in case_036.txt
+2025-06-22 19:54:43,066 - No ringkasan_fakta found in case_036.txt
+2025-06-22 19:54:43,067 - Extracted metadata from case_036.txt
+2025-06-22 19:54:43,068 - Processed text file: case_036.txt
+2025-06-22 19:54:43,069 - Extracted nomor_perkara: 3 pk pdt sus pailit 2025 for case_037.txt
+2025-06-22 19:54:43,072 - Extracted metadata from case_037.txt
+2025-06-22 19:54:43,072 - Processed text file: case_037.txt
+2025-06-22 19:54:43,074 - Extracted nomor_perkara: 40 k pdt sus pailit 2025 for case_038.txt
+2025-06-22 19:54:43,076 - No ringkasan_fakta found in case_038.txt
+2025-06-22 19:54:43,077 - Extracted metadata from case_038.txt
+2025-06-22 19:54:43,078 - Processed text file: case_038.txt
+2025-06-22 19:54:43,079 - Extracted nomor_perkara: 417 k pdt sus pailit 2025 for case_039.txt
+2025-06-22 19:54:43,082 - No ringkasan_fakta found in case_039.txt
+2025-06-22 19:54:43,084 - Extracted metadata from case_039.txt
+2025-06-22 19:54:43,085 - Processed text file: case_039.txt
+2025-06-22 19:54:43,086 - Extracted nomor_perkara: 418 k pdt sus pailit 2025 for case_040.txt
+2025-06-22 19:54:43,089 - No ringkasan_fakta found in case_040.txt
+2025-06-22 19:54:43,090 - Extracted metadata from case_040.txt
+2025-06-22 19:54:43,092 - Processed text file: case_040.txt
+2025-06-22 19:54:43,095 - Extracted nomor_perkara: 420 k pdt sus pailit 2025 for case_041.txt
+2025-06-22 19:54:43,100 - No ringkasan_fakta found in case_041.txt
+2025-06-22 19:54:43,101 - Extracted metadata from case_041.txt
+2025-06-22 19:54:43,102 - Processed text file: case_041.txt
+2025-06-22 19:54:43,105 - Extracted nomor_perkara: 44 k pdt sus pailit 2025 for case_042.txt
+2025-06-22 19:54:43,108 - No ringkasan_fakta found in case_042.txt
+2025-06-22 19:54:43,109 - Extracted metadata from case_042.txt
+2025-06-22 19:54:43,110 - Processed text file: case_042.txt
+2025-06-22 19:54:43,112 - Extracted nomor_perkara: 45 k pdt sus pailit 2025 for case_043.txt
+2025-06-22 19:54:43,114 - No ringkasan_fakta found in case_043.txt
+2025-06-22 19:54:43,116 - Extracted metadata from case_043.txt
+2025-06-22 19:54:43,117 - Processed text file: case_043.txt
+2025-06-22 19:54:43,118 - Extracted nomor_perkara: 49 k pdt sus pailit 2025 for case_044.txt
+2025-06-22 19:54:43,121 - No ringkasan_fakta found in case_044.txt
+2025-06-22 19:54:43,121 - Extracted metadata from case_044.txt
+2025-06-22 19:54:43,122 - Processed text file: case_044.txt
+2025-06-22 19:54:43,124 - Extracted nomor_perkara: 4 pk pdt sus pailit 2025 for case_045.txt
+2025-06-22 19:54:43,127 - Extracted metadata from case_045.txt
+2025-06-22 19:54:43,128 - Processed text file: case_045.txt
+2025-06-22 19:54:43,129 - Extracted nomor_perkara: 573 k pdt sus pailit 2024 for case_046.txt
+2025-06-22 19:54:43,134 - No ringkasan_fakta found in case_046.txt
+2025-06-22 19:54:43,135 - Extracted metadata from case_046.txt
+2025-06-22 19:54:43,136 - Processed text file: case_046.txt
+2025-06-22 19:54:43,138 - Extracted nomor_perkara: 575 k pdt sus pailit 2024 for case_047.txt
+2025-06-22 19:54:43,142 - No ringkasan_fakta found in case_047.txt
+2025-06-22 19:54:43,143 - Extracted metadata from case_047.txt
+2025-06-22 19:54:43,143 - Processed text file: case_047.txt
+2025-06-22 19:54:43,146 - Extracted nomor_perkara: 5 k pdt sus pailit 2025 for case_048.txt
+2025-06-22 19:54:43,149 - No ringkasan_fakta found in case_048.txt
+2025-06-22 19:54:43,150 - Extracted metadata from case_048.txt
+2025-06-22 19:54:43,151 - Processed text file: case_048.txt
+2025-06-22 19:54:43,151 - Extracted nomor_perkara: 603 k pdt sus pailit 2024 for case_049.txt
+2025-06-22 19:54:43,154 - No ringkasan_fakta found in case_049.txt
+2025-06-22 19:54:43,155 - Extracted metadata from case_049.txt
+2025-06-22 19:54:43,156 - Processed text file: case_049.txt
+2025-06-22 19:54:43,157 - Extracted nomor_perkara: 606 k pdt sus pailit 2024 for case_050.txt
+2025-06-22 19:54:43,161 - No ringkasan_fakta found in case_050.txt
+2025-06-22 19:54:43,162 - Extracted metadata from case_050.txt
+2025-06-22 19:54:43,164 - Processed text file: case_050.txt
+2025-06-22 19:54:43,165 - Extracted nomor_perkara: 63 pk pdt sus pailit 2024 for case_051.txt
+2025-06-22 19:54:43,167 - Extracted metadata from case_051.txt
+2025-06-22 19:54:43,168 - Processed text file: case_051.txt
+2025-06-22 19:54:43,169 - Extracted nomor_perkara: 1473 k pdt sus pailit 2021 for case_052.txt
+2025-06-22 19:54:43,171 - No ringkasan_fakta found in case_052.txt
+2025-06-22 19:54:43,173 - Extracted metadata from case_052.txt
+2025-06-22 19:54:43,174 - Processed text file: case_052.txt
+2025-06-22 19:54:43,174 - Extracted nomor_perkara: 65 k pdt sus pailit 2025 for case_053.txt
+2025-06-22 19:54:43,177 - No ringkasan_fakta found in case_053.txt
+2025-06-22 19:54:43,179 - Extracted metadata from case_053.txt
+2025-06-22 19:54:43,180 - Processed text file: case_053.txt
+2025-06-22 19:54:43,181 - Extracted nomor_perkara: 66 k pdt sus pailit 2025 for case_054.txt
+2025-06-22 19:54:43,184 - No ringkasan_fakta found in case_054.txt
+2025-06-22 19:54:43,185 - Extracted metadata from case_054.txt
+2025-06-22 19:54:43,186 - Processed text file: case_054.txt
+2025-06-22 19:54:43,187 - Extracted nomor_perkara: 70 pk pdt sus pailit 2024 for case_055.txt
+2025-06-22 19:54:43,189 - Extracted metadata from case_055.txt
+2025-06-22 19:54:43,190 - Processed text file: case_055.txt
+2025-06-22 19:54:43,192 - Extracted nomor_perkara: 776 k pdt sus pailit 2024 for case_056.txt
+2025-06-22 19:54:43,195 - No ringkasan_fakta found in case_056.txt
+2025-06-22 19:54:43,196 - Extracted metadata from case_056.txt
+2025-06-22 19:54:43,197 - Processed text file: case_056.txt
+2025-06-22 19:54:43,198 - Extracted nomor_perkara: 777 k pdt sus pailit 2024 for case_057.txt
+2025-06-22 19:54:43,200 - No ringkasan_fakta found in case_057.txt
+2025-06-22 19:54:43,202 - Extracted metadata from case_057.txt
+2025-06-22 19:54:43,203 - Processed text file: case_057.txt
+2025-06-22 19:54:43,204 - Extracted nomor_perkara: 81 k pdt sus pailit 2025 for case_058.txt
+2025-06-22 19:54:43,207 - No ringkasan_fakta found in case_058.txt
+2025-06-22 19:54:43,209 - Extracted metadata from case_058.txt
+2025-06-22 19:54:43,209 - Processed text file: case_058.txt
+2025-06-22 19:54:43,210 - Extracted nomor_perkara: 846 k pdt sus pailit 2024 for case_059.txt
+2025-06-22 19:54:43,212 - No ringkasan_fakta found in case_059.txt
+2025-06-22 19:54:43,214 - Extracted metadata from case_059.txt
+2025-06-22 19:54:43,215 - Processed text file: case_059.txt
+2025-06-22 19:54:43,216 - Extracted nomor_perkara: 9 pk pdt sus pailit 2025 for case_060.txt
+2025-06-22 19:54:43,218 - Extracted metadata from case_060.txt
+2025-06-22 19:54:43,219 - Processed text file: case_060.txt
+2025-06-22 19:54:43,221 - Saved metadata to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 19:54:43,222 - Processed 60 files and saved to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 20:00:32,773 - Starting metadata extraction process at 20:00:32  on Sunday, June 22, 2025
+2025-06-22 20:00:32,775 - Found 60 text files to process in d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\raw
+2025-06-22 20:00:32,777 - Extracted nomor_perkara: 10 pk pdt sus pailit 2025 for case_001.txt
+2025-06-22 20:00:32,778 - No putusan found in case_001.txt. Sample text: istrasi peninjauan kembali rp 9 980 000 00 jumlah rp 10 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:00:32,780 - Extracted metadata from case_001.txt
+2025-06-22 20:00:32,780 - Processed text file: case_001.txt
+2025-06-22 20:00:32,782 - Extracted nomor_perkara: 1178 k pdt sus pailit 2024 for case_002.txt
+2025-06-22 20:00:32,783 - No putusan found in case_002.txt. Sample text:  000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:00:32,784 - No ringkasan_fakta found in case_002.txt
+2025-06-22 20:00:32,785 - Extracted metadata from case_002.txt
+2025-06-22 20:00:32,785 - Processed text file: case_002.txt
+2025-06-22 20:00:32,786 - Extracted nomor_perkara: 11 pk pdt sus pailit 2025 for case_003.txt
+2025-06-22 20:00:32,787 - No putusan found in case_003.txt. Sample text:  9 980 000 00 jumlah rp10 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus ditandatangani secara elektronik h ahmad ardianda patria s h m h nip 19621220198612 1 001
+2025-06-22 20:00:32,788 - No ringkasan_fakta found in case_003.txt
+2025-06-22 20:00:32,788 - Extracted metadata from case_003.txt
+2025-06-22 20:00:32,789 - Processed text file: case_003.txt
+2025-06-22 20:00:32,790 - Extracted nomor_perkara: 1227 k pdt sus pailit 2024 for case_004.txt
+2025-06-22 20:00:32,792 - No ringkasan_fakta found in case_004.txt
+2025-06-22 20:00:32,792 - Extracted metadata from case_004.txt
+2025-06-22 20:00:32,793 - Processed text file: case_004.txt
+2025-06-22 20:00:32,794 - Extracted nomor_perkara: 123 k pdt sus pailit 2025 for case_005.txt
+2025-06-22 20:00:32,795 - No putusan found in case_005.txt. Sample text:  980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus ditandatangani secara elektronik h ahmad ardianda patria s h m hum nip 19621220 1986121 001
+2025-06-22 20:00:32,796 - No ringkasan_fakta found in case_005.txt
+2025-06-22 20:00:32,796 - Extracted metadata from case_005.txt
+2025-06-22 20:00:32,797 - Processed text file: case_005.txt
+2025-06-22 20:00:32,798 - Extracted nomor_perkara: 12 pk pdt sus pailit 2025 for case_006.txt
+2025-06-22 20:00:32,800 - No putusan found in case_006.txt. Sample text: 0 3 administrasi pk rp 9 980 000 00 j u m l a h rp10 000 000 00 untuk salinan mahkamah agung ri atas nama panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 196212201986121001
+2025-06-22 20:00:32,801 - Extracted metadata from case_006.txt
+2025-06-22 20:00:32,802 - Processed text file: case_006.txt
+2025-06-22 20:00:32,802 - Extracted nomor_perkara: 1318 k pdt sus pailit 2024 for case_007.txt
+2025-06-22 20:00:32,804 - No putusan found in case_007.txt. Sample text: p4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus ditanda tangani secara elektronik h ahmad ardianda patria s h m h nip 19621220198612 1 001
+2025-06-22 20:00:32,806 - No ringkasan_fakta found in case_007.txt
+2025-06-22 20:00:32,806 - Extracted metadata from case_007.txt
+2025-06-22 20:00:32,807 - Processed text file: case_007.txt
+2025-06-22 20:00:32,807 - Extracted nomor_perkara: 1345 k pdt sus pailit 2024 for case_008.txt
+2025-06-22 20:00:32,809 - No ringkasan_fakta found in case_008.txt
+2025-06-22 20:00:32,810 - Extracted metadata from case_008.txt
+2025-06-22 20:00:32,810 - Processed text file: case_008.txt
+2025-06-22 20:00:32,811 - Extracted nomor_perkara: 134 k pdt sus pailit 2025 for case_009.txt
+2025-06-22 20:00:32,812 - No ringkasan_fakta found in case_009.txt
+2025-06-22 20:00:32,813 - Extracted metadata from case_009.txt
+2025-06-22 20:00:32,814 - Processed text file: case_009.txt
+2025-06-22 20:00:32,815 - Extracted nomor_perkara: 135 k pdt sus pailit 2025 for case_010.txt
+2025-06-22 20:00:32,817 - No ringkasan_fakta found in case_010.txt
+2025-06-22 20:00:32,818 - Extracted metadata from case_010.txt
+2025-06-22 20:00:32,819 - Processed text file: case_010.txt
+2025-06-22 20:00:32,820 - Extracted nomor_perkara: 137 k pdt sus pailit 2025 for case_011.txt
+2025-06-22 20:00:32,821 - No putusan found in case_011.txt. Sample text:  000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 1986121 001
+2025-06-22 20:00:32,822 - No ringkasan_fakta found in case_011.txt
+2025-06-22 20:00:32,823 - Extracted metadata from case_011.txt
+2025-06-22 20:00:32,824 - Processed text file: case_011.txt
+2025-06-22 20:00:32,824 - Extracted nomor_perkara: 13 k pdt sus pailit 2025 for case_012.txt
+2025-06-22 20:00:32,826 - No ringkasan_fakta found in case_012.txt
+2025-06-22 20:00:32,826 - Extracted metadata from case_012.txt
+2025-06-22 20:00:32,827 - Processed text file: case_012.txt
+2025-06-22 20:00:32,828 - Extracted nomor_perkara: 13 pk pdt sus pailit 2025 for case_013.txt
+2025-06-22 20:00:32,829 - No putusan found in case_013.txt. Sample text: 0 3 administrasi pk rp 9 980 000 00 j u m l a h rp10 000 000 00 untuk salinan mahkamah agung ri atas nama panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 196212201986121001
+2025-06-22 20:00:32,830 - Extracted metadata from case_013.txt
+2025-06-22 20:00:32,830 - Processed text file: case_013.txt
+2025-06-22 20:00:32,831 - Extracted nomor_perkara: 15 pk pdt sus pailit 2025 for case_014.txt
+2025-06-22 20:00:32,835 - Extracted metadata from case_014.txt
+2025-06-22 20:00:32,836 - Processed text file: case_014.txt
+2025-06-22 20:00:32,837 - No nomor_perkara found in case_015.txt
+2025-06-22 20:00:32,838 - Extracted nomor_perkara:  for case_015.txt
+2025-06-22 20:00:32,839 - No putusan found in case_015.txt. Sample text: d boyke b s napitupulu s e s h m kn untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus ditandatangani secara elektronik h ahmad ardianda patria s h m hum nip 196212201986121001
+2025-06-22 20:00:32,840 - No ringkasan_fakta found in case_015.txt
+2025-06-22 20:00:32,840 - Extracted metadata from case_015.txt
+2025-06-22 20:00:32,841 - Processed text file: case_015.txt
+2025-06-22 20:00:32,841 - Extracted nomor_perkara: 17 pk pdt sus pailit 2025 for case_016.txt
+2025-06-22 20:00:32,842 - No putusan found in case_016.txt. Sample text: 10 000 00 3 administrasi pk rp 9 980 000 00 jumlah rp10 000 000 00 untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 1986121 001
+2025-06-22 20:00:32,843 - Extracted metadata from case_016.txt
+2025-06-22 20:00:32,844 - Processed text file: case_016.txt
+2025-06-22 20:00:32,845 - Extracted nomor_perkara: 185 k pdt sus pailit 2025 for case_017.txt
+2025-06-22 20:00:32,846 - No ringkasan_fakta found in case_017.txt
+2025-06-22 20:00:32,848 - Extracted metadata from case_017.txt
+2025-06-22 20:00:32,848 - Processed text file: case_017.txt
+2025-06-22 20:00:32,850 - Extracted nomor_perkara: 187 k pdt sus pailit 2025 for case_018.txt
+2025-06-22 20:00:32,882 - No ringkasan_fakta found in case_018.txt
+2025-06-22 20:00:32,888 - Extracted metadata from case_018.txt
+2025-06-22 20:00:32,889 - Processed text file: case_018.txt
+2025-06-22 20:00:32,891 - Extracted nomor_perkara: 203 k pdt sus pailit 2025 for case_019.txt
+2025-06-22 20:00:32,893 - No ringkasan_fakta found in case_019.txt
+2025-06-22 20:00:32,895 - Extracted metadata from case_019.txt
+2025-06-22 20:00:32,896 - Processed text file: case_019.txt
+2025-06-22 20:00:32,900 - Extracted nomor_perkara: 204 k pdt sus pailit 2025 for case_020.txt
+2025-06-22 20:00:32,904 - No ringkasan_fakta found in case_020.txt
+2025-06-22 20:00:32,912 - Extracted metadata from case_020.txt
+2025-06-22 20:00:32,917 - Processed text file: case_020.txt
+2025-06-22 20:00:32,920 - Extracted nomor_perkara: 24 k pdt sus pailit 2025 for case_021.txt
+2025-06-22 20:00:32,925 - No ringkasan_fakta found in case_021.txt
+2025-06-22 20:00:32,927 - Extracted metadata from case_021.txt
+2025-06-22 20:00:32,928 - Processed text file: case_021.txt
+2025-06-22 20:00:32,929 - Extracted nomor_perkara: 260 k pdt sus pailit 2025 for case_022.txt
+2025-06-22 20:00:32,931 - No putusan found in case_022.txt. Sample text:  10 000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m h nip 19621220198612 1 001
+2025-06-22 20:00:32,934 - No ringkasan_fakta found in case_022.txt
+2025-06-22 20:00:32,935 - Extracted metadata from case_022.txt
+2025-06-22 20:00:32,936 - Processed text file: case_022.txt
+2025-06-22 20:00:32,937 - Extracted nomor_perkara: 261 k pdt sus pailit 2025 for case_023.txt
+2025-06-22 20:00:32,939 - No putusan found in case_023.txt. Sample text:  000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 1986121 001
+2025-06-22 20:00:32,940 - No ringkasan_fakta found in case_023.txt
+2025-06-22 20:00:32,942 - Extracted metadata from case_023.txt
+2025-06-22 20:00:32,943 - Processed text file: case_023.txt
+2025-06-22 20:00:32,945 - Extracted nomor_perkara: 265 k pdt sus pailit 2025 for case_024.txt
+2025-06-22 20:00:32,958 - No ringkasan_fakta found in case_024.txt
+2025-06-22 20:00:32,959 - Extracted metadata from case_024.txt
+2025-06-22 20:00:32,960 - Processed text file: case_024.txt
+2025-06-22 20:00:32,962 - Extracted nomor_perkara: 277 k pdt sus pailit 2025 for case_025.txt
+2025-06-22 20:00:32,963 - No ringkasan_fakta found in case_025.txt
+2025-06-22 20:00:32,965 - Extracted metadata from case_025.txt
+2025-06-22 20:00:32,966 - Processed text file: case_025.txt
+2025-06-22 20:00:32,967 - Extracted nomor_perkara: 281 k pdt sus pailit 2025 for case_026.txt
+2025-06-22 20:00:32,968 - No putusan found in case_026.txt. Sample text: ministrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan a n panitera panitera muda perdata khusus ditandatangani secara elektronik h ahmad ardianda patria s h m hum nip 196212201986121001
+2025-06-22 20:00:32,970 - No ringkasan_fakta found in case_026.txt
+2025-06-22 20:00:32,971 - Extracted metadata from case_026.txt
+2025-06-22 20:00:32,971 - Processed text file: case_026.txt
+2025-06-22 20:00:32,972 - Extracted nomor_perkara: 297 k pdt sus pailit 2025 for case_027.txt
+2025-06-22 20:00:32,975 - No ringkasan_fakta found in case_027.txt
+2025-06-22 20:00:32,976 - Extracted metadata from case_027.txt
+2025-06-22 20:00:32,977 - Processed text file: case_027.txt
+2025-06-22 20:00:32,978 - Extracted nomor_perkara: 305 k pdt sus pailit 2025 for case_028.txt
+2025-06-22 20:00:32,980 - No ringkasan_fakta found in case_028.txt
+2025-06-22 20:00:32,980 - Extracted metadata from case_028.txt
+2025-06-22 20:00:32,981 - Processed text file: case_028.txt
+2025-06-22 20:00:32,982 - Extracted nomor_perkara: 307 k pdt sus pailit 2025 for case_029.txt
+2025-06-22 20:00:32,985 - No ringkasan_fakta found in case_029.txt
+2025-06-22 20:00:32,986 - Extracted metadata from case_029.txt
+2025-06-22 20:00:32,986 - Processed text file: case_029.txt
+2025-06-22 20:00:32,988 - Extracted nomor_perkara: 308 k pdt sus pailit 2025 for case_030.txt
+2025-06-22 20:00:32,989 - No ringkasan_fakta found in case_030.txt
+2025-06-22 20:00:32,990 - Extracted metadata from case_030.txt
+2025-06-22 20:00:32,991 - Processed text file: case_030.txt
+2025-06-22 20:00:32,992 - Extracted nomor_perkara: 323 k pdt sus pailit 2025 for case_031.txt
+2025-06-22 20:00:32,993 - No ringkasan_fakta found in case_031.txt
+2025-06-22 20:00:32,994 - Extracted metadata from case_031.txt
+2025-06-22 20:00:32,995 - Processed text file: case_031.txt
+2025-06-22 20:00:32,995 - Extracted nomor_perkara: 344 k pdt sus pailit 2025 for case_032.txt
+2025-06-22 20:00:32,998 - No ringkasan_fakta found in case_032.txt
+2025-06-22 20:00:33,000 - Extracted metadata from case_032.txt
+2025-06-22 20:00:33,001 - Processed text file: case_032.txt
+2025-06-22 20:00:33,002 - Extracted nomor_perkara: 36 k pdt sus pailit 2025 for case_033.txt
+2025-06-22 20:00:33,004 - No putusan found in case_033.txt. Sample text:  000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1001
+2025-06-22 20:00:33,006 - No ringkasan_fakta found in case_033.txt
+2025-06-22 20:00:33,007 - Extracted metadata from case_033.txt
+2025-06-22 20:00:33,008 - Processed text file: case_033.txt
+2025-06-22 20:00:33,009 - Extracted nomor_perkara: 370 k pdt sus pailit 2025 for case_034.txt
+2025-06-22 20:00:33,010 - No ringkasan_fakta found in case_034.txt
+2025-06-22 20:00:33,011 - Extracted metadata from case_034.txt
+2025-06-22 20:00:33,011 - Processed text file: case_034.txt
+2025-06-22 20:00:33,012 - Extracted nomor_perkara: 38 k pdt sus pailit 2025 for case_035.txt
+2025-06-22 20:00:33,015 - No ringkasan_fakta found in case_035.txt
+2025-06-22 20:00:33,017 - Extracted metadata from case_035.txt
+2025-06-22 20:00:33,017 - Processed text file: case_035.txt
+2025-06-22 20:00:33,019 - No nomor_perkara found in case_036.txt
+2025-06-22 20:00:33,019 - Extracted nomor_perkara:  for case_036.txt
+2025-06-22 20:00:33,021 - No hakim_ketua found in case_036.txt
+2025-06-22 20:00:33,022 - No ringkasan_fakta found in case_036.txt
+2025-06-22 20:00:33,022 - Extracted metadata from case_036.txt
+2025-06-22 20:00:33,023 - Processed text file: case_036.txt
+2025-06-22 20:00:33,024 - Extracted nomor_perkara: 3 pk pdt sus pailit 2025 for case_037.txt
+2025-06-22 20:00:33,025 - No putusan found in case_037.txt. Sample text: 0 000 00 3 administrasi kasasi rp 9 980 000 00 jumlah rp10 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 196212201986121001
+2025-06-22 20:00:33,026 - Extracted metadata from case_037.txt
+2025-06-22 20:00:33,027 - Processed text file: case_037.txt
+2025-06-22 20:00:33,028 - Extracted nomor_perkara: 40 k pdt sus pailit 2025 for case_038.txt
+2025-06-22 20:00:33,029 - No ringkasan_fakta found in case_038.txt
+2025-06-22 20:00:33,030 - Extracted metadata from case_038.txt
+2025-06-22 20:00:33,030 - Processed text file: case_038.txt
+2025-06-22 20:00:33,032 - Extracted nomor_perkara: 417 k pdt sus pailit 2025 for case_039.txt
+2025-06-22 20:00:33,034 - No ringkasan_fakta found in case_039.txt
+2025-06-22 20:00:33,034 - Extracted metadata from case_039.txt
+2025-06-22 20:00:33,035 - Processed text file: case_039.txt
+2025-06-22 20:00:33,036 - Extracted nomor_perkara: 418 k pdt sus pailit 2025 for case_040.txt
+2025-06-22 20:00:33,038 - No putusan found in case_040.txt. Sample text: 4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus ditandatangani secara elektronik h ahmad ardianda patria sh mhum nip 1962 1220 1986 121 001
+2025-06-22 20:00:33,039 - No ringkasan_fakta found in case_040.txt
+2025-06-22 20:00:33,040 - Extracted metadata from case_040.txt
+2025-06-22 20:00:33,040 - Processed text file: case_040.txt
+2025-06-22 20:00:33,041 - Extracted nomor_perkara: 420 k pdt sus pailit 2025 for case_041.txt
+2025-06-22 20:00:33,043 - No putusan found in case_041.txt. Sample text: 0 000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1001
+2025-06-22 20:00:33,044 - No ringkasan_fakta found in case_041.txt
+2025-06-22 20:00:33,044 - Extracted metadata from case_041.txt
+2025-06-22 20:00:33,045 - Processed text file: case_041.txt
+2025-06-22 20:00:33,046 - Extracted nomor_perkara: 44 k pdt sus pailit 2025 for case_042.txt
+2025-06-22 20:00:33,048 - No ringkasan_fakta found in case_042.txt
+2025-06-22 20:00:33,049 - Extracted metadata from case_042.txt
+2025-06-22 20:00:33,050 - Processed text file: case_042.txt
+2025-06-22 20:00:33,051 - Extracted nomor_perkara: 45 k pdt sus pailit 2025 for case_043.txt
+2025-06-22 20:00:33,052 - No ringkasan_fakta found in case_043.txt
+2025-06-22 20:00:33,053 - Extracted metadata from case_043.txt
+2025-06-22 20:00:33,053 - Processed text file: case_043.txt
+2025-06-22 20:00:33,054 - Extracted nomor_perkara: 49 k pdt sus pailit 2025 for case_044.txt
+2025-06-22 20:00:33,056 - No ringkasan_fakta found in case_044.txt
+2025-06-22 20:00:33,056 - Extracted metadata from case_044.txt
+2025-06-22 20:00:33,057 - Processed text file: case_044.txt
+2025-06-22 20:00:33,058 - Extracted nomor_perkara: 4 pk pdt sus pailit 2025 for case_045.txt
+2025-06-22 20:00:33,059 - No putusan found in case_045.txt. Sample text: 000 00 3 administrasi pk rp9 984 000 00 j u m l a h rp10 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria sh mhum nip 1962 1220 1986 121 001
+2025-06-22 20:00:33,060 - Extracted metadata from case_045.txt
+2025-06-22 20:00:33,060 - Processed text file: case_045.txt
+2025-06-22 20:00:33,061 - Extracted nomor_perkara: 573 k pdt sus pailit 2024 for case_046.txt
+2025-06-22 20:00:33,063 - No ringkasan_fakta found in case_046.txt
+2025-06-22 20:00:33,064 - Extracted metadata from case_046.txt
+2025-06-22 20:00:33,065 - Processed text file: case_046.txt
+2025-06-22 20:00:33,066 - Extracted nomor_perkara: 575 k pdt sus pailit 2024 for case_047.txt
+2025-06-22 20:00:33,068 - No ringkasan_fakta found in case_047.txt
+2025-06-22 20:00:33,068 - Extracted metadata from case_047.txt
+2025-06-22 20:00:33,069 - Processed text file: case_047.txt
+2025-06-22 20:00:33,070 - Extracted nomor_perkara: 5 k pdt sus pailit 2025 for case_048.txt
+2025-06-22 20:00:33,071 - No ringkasan_fakta found in case_048.txt
+2025-06-22 20:00:33,072 - Extracted metadata from case_048.txt
+2025-06-22 20:00:33,072 - Processed text file: case_048.txt
+2025-06-22 20:00:33,073 - Extracted nomor_perkara: 603 k pdt sus pailit 2024 for case_049.txt
+2025-06-22 20:00:33,075 - No putusan found in case_049.txt. Sample text: 0 000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1001
+2025-06-22 20:00:33,077 - No ringkasan_fakta found in case_049.txt
+2025-06-22 20:00:33,077 - Extracted metadata from case_049.txt
+2025-06-22 20:00:33,078 - Processed text file: case_049.txt
+2025-06-22 20:00:33,079 - Extracted nomor_perkara: 606 k pdt sus pailit 2024 for case_050.txt
+2025-06-22 20:00:33,080 - No putusan found in case_050.txt. Sample text: 10 000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri an panitera panitera muda perdata khusus h ahmad ardianda patria sh m hum nip 19621220 198612 1 001
+2025-06-22 20:00:33,081 - No ringkasan_fakta found in case_050.txt
+2025-06-22 20:00:33,083 - Extracted metadata from case_050.txt
+2025-06-22 20:00:33,084 - Processed text file: case_050.txt
+2025-06-22 20:00:33,085 - Extracted nomor_perkara: 63 pk pdt sus pailit 2024 for case_051.txt
+2025-06-22 20:00:33,086 - No putusan found in case_051.txt. Sample text:  00 3 administrasi pk rp 9 980 000 00 j u m l a h rp10 000 000 00 untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:00:33,087 - Extracted metadata from case_051.txt
+2025-06-22 20:00:33,088 - Processed text file: case_051.txt
+2025-06-22 20:00:33,089 - Extracted nomor_perkara: 1473 k pdt sus pailit 2021 for case_052.txt
+2025-06-22 20:00:33,091 - No ringkasan_fakta found in case_052.txt
+2025-06-22 20:00:33,093 - Extracted metadata from case_052.txt
+2025-06-22 20:00:33,101 - Processed text file: case_052.txt
+2025-06-22 20:00:33,137 - Extracted nomor_perkara: 65 k pdt sus pailit 2025 for case_053.txt
+2025-06-22 20:00:33,139 - No putusan found in case_053.txt. Sample text: 4 980 000 00 jumlah rp 5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus ditanda tangani secara elektronik h ahmad ardianda patria s h m h nip 19621220198612 1 001
+2025-06-22 20:00:33,141 - No ringkasan_fakta found in case_053.txt
+2025-06-22 20:00:33,143 - Extracted metadata from case_053.txt
+2025-06-22 20:00:33,144 - Processed text file: case_053.txt
+2025-06-22 20:00:33,145 - Extracted nomor_perkara: 66 k pdt sus pailit 2025 for case_054.txt
+2025-06-22 20:00:33,147 - No ringkasan_fakta found in case_054.txt
+2025-06-22 20:00:33,149 - Extracted metadata from case_054.txt
+2025-06-22 20:00:33,152 - Processed text file: case_054.txt
+2025-06-22 20:00:33,154 - Extracted nomor_perkara: 70 pk pdt sus pailit 2024 for case_055.txt
+2025-06-22 20:00:33,163 - No putusan found in case_055.txt. Sample text: inistrasi peninjauan kembali rp 9 980 000 00 jumlah rp10 000 000 00 untuk salinan mahkamah agung ri an panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:00:33,164 - Extracted metadata from case_055.txt
+2025-06-22 20:00:33,166 - Processed text file: case_055.txt
+2025-06-22 20:00:33,167 - Extracted nomor_perkara: 776 k pdt sus pailit 2024 for case_056.txt
+2025-06-22 20:00:33,168 - No putusan found in case_056.txt. Sample text: 0 000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1001
+2025-06-22 20:00:33,169 - No ringkasan_fakta found in case_056.txt
+2025-06-22 20:00:33,170 - Extracted metadata from case_056.txt
+2025-06-22 20:00:33,170 - Processed text file: case_056.txt
+2025-06-22 20:00:33,171 - Extracted nomor_perkara: 777 k pdt sus pailit 2024 for case_057.txt
+2025-06-22 20:00:33,172 - No putusan found in case_057.txt. Sample text: 0 000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1001
+2025-06-22 20:00:33,173 - No ringkasan_fakta found in case_057.txt
+2025-06-22 20:00:33,173 - Extracted metadata from case_057.txt
+2025-06-22 20:00:33,174 - Processed text file: case_057.txt
+2025-06-22 20:00:33,175 - Extracted nomor_perkara: 81 k pdt sus pailit 2025 for case_058.txt
+2025-06-22 20:00:33,186 - No ringkasan_fakta found in case_058.txt
+2025-06-22 20:00:33,189 - Extracted metadata from case_058.txt
+2025-06-22 20:00:33,190 - Processed text file: case_058.txt
+2025-06-22 20:00:33,191 - Extracted nomor_perkara: 846 k pdt sus pailit 2024 for case_059.txt
+2025-06-22 20:00:33,193 - No putusan found in case_059.txt. Sample text: 000 00 3 administrasi kasasi rp4 980 000 00 jumlah rp5 000 000 00 untuk salinan mahkamah agung r i a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:00:33,193 - No ringkasan_fakta found in case_059.txt
+2025-06-22 20:00:33,194 - Extracted metadata from case_059.txt
+2025-06-22 20:00:33,194 - Processed text file: case_059.txt
+2025-06-22 20:00:33,195 - Extracted nomor_perkara: 9 pk pdt sus pailit 2025 for case_060.txt
+2025-06-22 20:00:33,197 - No putusan found in case_060.txt. Sample text: nistrasi peninjauan kembali rp 9 980 000 00 jumlah rp10 000 000 00 untuk salinan mahkamah agung ri a n panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:00:33,198 - Extracted metadata from case_060.txt
+2025-06-22 20:00:33,199 - Processed text file: case_060.txt
+2025-06-22 20:00:33,202 - Saved metadata to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 20:00:33,203 - Processed 60 files and saved to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 20:03:49,375 - Starting metadata extraction process at 20:03:49  on Sunday, June 22, 2025
+2025-06-22 20:03:49,377 - Found 60 text files to process in d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\raw
+2025-06-22 20:03:49,378 - Extracted nomor_perkara: 10 pk pdt sus pailit 2025 for case_001.txt
+2025-06-22 20:03:49,380 - Extracted metadata from case_001.txt
+2025-06-22 20:03:49,381 - Processed text file: case_001.txt
+2025-06-22 20:03:49,382 - Extracted nomor_perkara: 1178 k pdt sus pailit 2024 for case_002.txt
+2025-06-22 20:03:49,384 - No ringkasan_fakta found in case_002.txt
+2025-06-22 20:03:49,386 - Extracted metadata from case_002.txt
+2025-06-22 20:03:49,386 - Processed text file: case_002.txt
+2025-06-22 20:03:49,388 - Extracted nomor_perkara: 11 pk pdt sus pailit 2025 for case_003.txt
+2025-06-22 20:03:49,390 - No ringkasan_fakta found in case_003.txt
+2025-06-22 20:03:49,391 - Extracted metadata from case_003.txt
+2025-06-22 20:03:49,392 - Processed text file: case_003.txt
+2025-06-22 20:03:49,393 - Extracted nomor_perkara: 1227 k pdt sus pailit 2024 for case_004.txt
+2025-06-22 20:03:49,394 - No ringkasan_fakta found in case_004.txt
+2025-06-22 20:03:49,395 - Extracted metadata from case_004.txt
+2025-06-22 20:03:49,396 - Processed text file: case_004.txt
+2025-06-22 20:03:49,397 - Extracted nomor_perkara: 123 k pdt sus pailit 2025 for case_005.txt
+2025-06-22 20:03:49,398 - No ringkasan_fakta found in case_005.txt
+2025-06-22 20:03:49,399 - Extracted metadata from case_005.txt
+2025-06-22 20:03:49,400 - Processed text file: case_005.txt
+2025-06-22 20:03:49,402 - Extracted nomor_perkara: 12 pk pdt sus pailit 2025 for case_006.txt
+2025-06-22 20:03:49,404 - Extracted metadata from case_006.txt
+2025-06-22 20:03:49,404 - Processed text file: case_006.txt
+2025-06-22 20:03:49,405 - Extracted nomor_perkara: 1318 k pdt sus pailit 2024 for case_007.txt
+2025-06-22 20:03:49,407 - No ringkasan_fakta found in case_007.txt
+2025-06-22 20:03:49,408 - Extracted metadata from case_007.txt
+2025-06-22 20:03:49,409 - Processed text file: case_007.txt
+2025-06-22 20:03:49,410 - Extracted nomor_perkara: 1345 k pdt sus pailit 2024 for case_008.txt
+2025-06-22 20:03:49,412 - No ringkasan_fakta found in case_008.txt
+2025-06-22 20:03:49,413 - Extracted metadata from case_008.txt
+2025-06-22 20:03:49,414 - Processed text file: case_008.txt
+2025-06-22 20:03:49,415 - Extracted nomor_perkara: 134 k pdt sus pailit 2025 for case_009.txt
+2025-06-22 20:03:49,416 - No ringkasan_fakta found in case_009.txt
+2025-06-22 20:03:49,417 - Extracted metadata from case_009.txt
+2025-06-22 20:03:49,418 - Processed text file: case_009.txt
+2025-06-22 20:03:49,419 - Extracted nomor_perkara: 135 k pdt sus pailit 2025 for case_010.txt
+2025-06-22 20:03:49,420 - No ringkasan_fakta found in case_010.txt
+2025-06-22 20:03:49,421 - Extracted metadata from case_010.txt
+2025-06-22 20:03:49,422 - Processed text file: case_010.txt
+2025-06-22 20:03:49,423 - Extracted nomor_perkara: 137 k pdt sus pailit 2025 for case_011.txt
+2025-06-22 20:03:49,425 - No ringkasan_fakta found in case_011.txt
+2025-06-22 20:03:49,426 - Extracted metadata from case_011.txt
+2025-06-22 20:03:49,427 - Processed text file: case_011.txt
+2025-06-22 20:03:49,429 - Extracted nomor_perkara: 13 k pdt sus pailit 2025 for case_012.txt
+2025-06-22 20:03:49,430 - No ringkasan_fakta found in case_012.txt
+2025-06-22 20:03:49,431 - Extracted metadata from case_012.txt
+2025-06-22 20:03:49,432 - Processed text file: case_012.txt
+2025-06-22 20:03:49,433 - Extracted nomor_perkara: 13 pk pdt sus pailit 2025 for case_013.txt
+2025-06-22 20:03:49,435 - Extracted metadata from case_013.txt
+2025-06-22 20:03:49,435 - Processed text file: case_013.txt
+2025-06-22 20:03:49,437 - Extracted nomor_perkara: 15 pk pdt sus pailit 2025 for case_014.txt
+2025-06-22 20:03:49,439 - Extracted metadata from case_014.txt
+2025-06-22 20:03:49,440 - Processed text file: case_014.txt
+2025-06-22 20:03:49,442 - No nomor_perkara found in case_015.txt
+2025-06-22 20:03:49,442 - Extracted nomor_perkara:  for case_015.txt
+2025-06-22 20:03:49,444 - No ringkasan_fakta found in case_015.txt
+2025-06-22 20:03:49,449 - Extracted metadata from case_015.txt
+2025-06-22 20:03:49,453 - Processed text file: case_015.txt
+2025-06-22 20:03:49,456 - Extracted nomor_perkara: 17 pk pdt sus pailit 2025 for case_016.txt
+2025-06-22 20:03:49,458 - Extracted metadata from case_016.txt
+2025-06-22 20:03:49,461 - Processed text file: case_016.txt
+2025-06-22 20:03:49,465 - Extracted nomor_perkara: 185 k pdt sus pailit 2025 for case_017.txt
+2025-06-22 20:03:49,467 - No ringkasan_fakta found in case_017.txt
+2025-06-22 20:03:49,467 - Extracted metadata from case_017.txt
+2025-06-22 20:03:49,480 - Processed text file: case_017.txt
+2025-06-22 20:03:49,493 - Extracted nomor_perkara: 187 k pdt sus pailit 2025 for case_018.txt
+2025-06-22 20:03:49,499 - No ringkasan_fakta found in case_018.txt
+2025-06-22 20:03:49,500 - Extracted metadata from case_018.txt
+2025-06-22 20:03:49,501 - Processed text file: case_018.txt
+2025-06-22 20:03:49,502 - Extracted nomor_perkara: 203 k pdt sus pailit 2025 for case_019.txt
+2025-06-22 20:03:49,512 - No ringkasan_fakta found in case_019.txt
+2025-06-22 20:03:49,515 - Extracted metadata from case_019.txt
+2025-06-22 20:03:49,519 - Processed text file: case_019.txt
+2025-06-22 20:03:49,520 - Extracted nomor_perkara: 204 k pdt sus pailit 2025 for case_020.txt
+2025-06-22 20:03:49,522 - No ringkasan_fakta found in case_020.txt
+2025-06-22 20:03:49,522 - Extracted metadata from case_020.txt
+2025-06-22 20:03:49,523 - Processed text file: case_020.txt
+2025-06-22 20:03:49,524 - Extracted nomor_perkara: 24 k pdt sus pailit 2025 for case_021.txt
+2025-06-22 20:03:49,528 - No ringkasan_fakta found in case_021.txt
+2025-06-22 20:03:49,529 - Extracted metadata from case_021.txt
+2025-06-22 20:03:49,531 - Processed text file: case_021.txt
+2025-06-22 20:03:49,532 - Extracted nomor_perkara: 260 k pdt sus pailit 2025 for case_022.txt
+2025-06-22 20:03:49,539 - No ringkasan_fakta found in case_022.txt
+2025-06-22 20:03:49,541 - Extracted metadata from case_022.txt
+2025-06-22 20:03:49,544 - Processed text file: case_022.txt
+2025-06-22 20:03:49,546 - Extracted nomor_perkara: 261 k pdt sus pailit 2025 for case_023.txt
+2025-06-22 20:03:49,548 - No ringkasan_fakta found in case_023.txt
+2025-06-22 20:03:49,549 - Extracted metadata from case_023.txt
+2025-06-22 20:03:49,549 - Processed text file: case_023.txt
+2025-06-22 20:03:49,550 - Extracted nomor_perkara: 265 k pdt sus pailit 2025 for case_024.txt
+2025-06-22 20:03:49,552 - No ringkasan_fakta found in case_024.txt
+2025-06-22 20:03:49,553 - Extracted metadata from case_024.txt
+2025-06-22 20:03:49,553 - Processed text file: case_024.txt
+2025-06-22 20:03:49,554 - Extracted nomor_perkara: 277 k pdt sus pailit 2025 for case_025.txt
+2025-06-22 20:03:49,556 - No ringkasan_fakta found in case_025.txt
+2025-06-22 20:03:49,556 - Extracted metadata from case_025.txt
+2025-06-22 20:03:49,557 - Processed text file: case_025.txt
+2025-06-22 20:03:49,558 - Extracted nomor_perkara: 281 k pdt sus pailit 2025 for case_026.txt
+2025-06-22 20:03:49,560 - No ringkasan_fakta found in case_026.txt
+2025-06-22 20:03:49,561 - Extracted metadata from case_026.txt
+2025-06-22 20:03:49,562 - Processed text file: case_026.txt
+2025-06-22 20:03:49,563 - Extracted nomor_perkara: 297 k pdt sus pailit 2025 for case_027.txt
+2025-06-22 20:03:49,567 - No ringkasan_fakta found in case_027.txt
+2025-06-22 20:03:49,568 - Extracted metadata from case_027.txt
+2025-06-22 20:03:49,569 - Processed text file: case_027.txt
+2025-06-22 20:03:49,570 - Extracted nomor_perkara: 305 k pdt sus pailit 2025 for case_028.txt
+2025-06-22 20:03:49,571 - No ringkasan_fakta found in case_028.txt
+2025-06-22 20:03:49,572 - Extracted metadata from case_028.txt
+2025-06-22 20:03:49,572 - Processed text file: case_028.txt
+2025-06-22 20:03:49,573 - Extracted nomor_perkara: 307 k pdt sus pailit 2025 for case_029.txt
+2025-06-22 20:03:49,576 - No ringkasan_fakta found in case_029.txt
+2025-06-22 20:03:49,577 - Extracted metadata from case_029.txt
+2025-06-22 20:03:49,578 - Processed text file: case_029.txt
+2025-06-22 20:03:49,579 - Extracted nomor_perkara: 308 k pdt sus pailit 2025 for case_030.txt
+2025-06-22 20:03:49,580 - No ringkasan_fakta found in case_030.txt
+2025-06-22 20:03:49,581 - Extracted metadata from case_030.txt
+2025-06-22 20:03:49,581 - Processed text file: case_030.txt
+2025-06-22 20:03:49,582 - Extracted nomor_perkara: 323 k pdt sus pailit 2025 for case_031.txt
+2025-06-22 20:03:49,584 - No ringkasan_fakta found in case_031.txt
+2025-06-22 20:03:49,584 - Extracted metadata from case_031.txt
+2025-06-22 20:03:49,585 - Processed text file: case_031.txt
+2025-06-22 20:03:49,586 - Extracted nomor_perkara: 344 k pdt sus pailit 2025 for case_032.txt
+2025-06-22 20:03:49,588 - No ringkasan_fakta found in case_032.txt
+2025-06-22 20:03:49,589 - Extracted metadata from case_032.txt
+2025-06-22 20:03:49,589 - Processed text file: case_032.txt
+2025-06-22 20:03:49,590 - Extracted nomor_perkara: 36 k pdt sus pailit 2025 for case_033.txt
+2025-06-22 20:03:49,593 - No ringkasan_fakta found in case_033.txt
+2025-06-22 20:03:49,594 - Extracted metadata from case_033.txt
+2025-06-22 20:03:49,595 - Processed text file: case_033.txt
+2025-06-22 20:03:49,596 - Extracted nomor_perkara: 370 k pdt sus pailit 2025 for case_034.txt
+2025-06-22 20:03:49,597 - No ringkasan_fakta found in case_034.txt
+2025-06-22 20:03:49,598 - Extracted metadata from case_034.txt
+2025-06-22 20:03:49,599 - Processed text file: case_034.txt
+2025-06-22 20:03:49,600 - Extracted nomor_perkara: 38 k pdt sus pailit 2025 for case_035.txt
+2025-06-22 20:03:49,602 - No ringkasan_fakta found in case_035.txt
+2025-06-22 20:03:49,602 - Extracted metadata from case_035.txt
+2025-06-22 20:03:49,603 - Processed text file: case_035.txt
+2025-06-22 20:03:49,604 - No nomor_perkara found in case_036.txt
+2025-06-22 20:03:49,605 - Extracted nomor_perkara:  for case_036.txt
+2025-06-22 20:03:49,606 - No hakim_ketua found in case_036.txt
+2025-06-22 20:03:49,607 - No ringkasan_fakta found in case_036.txt
+2025-06-22 20:03:49,608 - Extracted metadata from case_036.txt
+2025-06-22 20:03:49,609 - Processed text file: case_036.txt
+2025-06-22 20:03:49,611 - Extracted nomor_perkara: 3 pk pdt sus pailit 2025 for case_037.txt
+2025-06-22 20:03:49,612 - Extracted metadata from case_037.txt
+2025-06-22 20:03:49,613 - Processed text file: case_037.txt
+2025-06-22 20:03:49,614 - Extracted nomor_perkara: 40 k pdt sus pailit 2025 for case_038.txt
+2025-06-22 20:03:49,615 - No ringkasan_fakta found in case_038.txt
+2025-06-22 20:03:49,616 - Extracted metadata from case_038.txt
+2025-06-22 20:03:49,616 - Processed text file: case_038.txt
+2025-06-22 20:03:49,617 - Extracted nomor_perkara: 417 k pdt sus pailit 2025 for case_039.txt
+2025-06-22 20:03:49,618 - No ringkasan_fakta found in case_039.txt
+2025-06-22 20:03:49,619 - Extracted metadata from case_039.txt
+2025-06-22 20:03:49,620 - Processed text file: case_039.txt
+2025-06-22 20:03:49,621 - Extracted nomor_perkara: 418 k pdt sus pailit 2025 for case_040.txt
+2025-06-22 20:03:49,623 - No ringkasan_fakta found in case_040.txt
+2025-06-22 20:03:49,624 - Extracted metadata from case_040.txt
+2025-06-22 20:03:49,624 - Processed text file: case_040.txt
+2025-06-22 20:03:49,625 - Extracted nomor_perkara: 420 k pdt sus pailit 2025 for case_041.txt
+2025-06-22 20:03:49,627 - No ringkasan_fakta found in case_041.txt
+2025-06-22 20:03:49,628 - Extracted metadata from case_041.txt
+2025-06-22 20:03:49,628 - Processed text file: case_041.txt
+2025-06-22 20:03:49,629 - Extracted nomor_perkara: 44 k pdt sus pailit 2025 for case_042.txt
+2025-06-22 20:03:49,631 - No ringkasan_fakta found in case_042.txt
+2025-06-22 20:03:49,632 - Extracted metadata from case_042.txt
+2025-06-22 20:03:49,633 - Processed text file: case_042.txt
+2025-06-22 20:03:49,634 - Extracted nomor_perkara: 45 k pdt sus pailit 2025 for case_043.txt
+2025-06-22 20:03:49,635 - No ringkasan_fakta found in case_043.txt
+2025-06-22 20:03:49,636 - Extracted metadata from case_043.txt
+2025-06-22 20:03:49,636 - Processed text file: case_043.txt
+2025-06-22 20:03:49,637 - Extracted nomor_perkara: 49 k pdt sus pailit 2025 for case_044.txt
+2025-06-22 20:03:49,638 - No ringkasan_fakta found in case_044.txt
+2025-06-22 20:03:49,639 - Extracted metadata from case_044.txt
+2025-06-22 20:03:49,639 - Processed text file: case_044.txt
+2025-06-22 20:03:49,640 - Extracted nomor_perkara: 4 pk pdt sus pailit 2025 for case_045.txt
+2025-06-22 20:03:49,641 - Extracted metadata from case_045.txt
+2025-06-22 20:03:49,643 - Processed text file: case_045.txt
+2025-06-22 20:03:49,644 - Extracted nomor_perkara: 573 k pdt sus pailit 2024 for case_046.txt
+2025-06-22 20:03:49,647 - No ringkasan_fakta found in case_046.txt
+2025-06-22 20:03:49,648 - Extracted metadata from case_046.txt
+2025-06-22 20:03:49,648 - Processed text file: case_046.txt
+2025-06-22 20:03:49,649 - Extracted nomor_perkara: 575 k pdt sus pailit 2024 for case_047.txt
+2025-06-22 20:03:49,651 - No ringkasan_fakta found in case_047.txt
+2025-06-22 20:03:49,652 - Extracted metadata from case_047.txt
+2025-06-22 20:03:49,652 - Processed text file: case_047.txt
+2025-06-22 20:03:49,653 - Extracted nomor_perkara: 5 k pdt sus pailit 2025 for case_048.txt
+2025-06-22 20:03:49,655 - No ringkasan_fakta found in case_048.txt
+2025-06-22 20:03:49,655 - Extracted metadata from case_048.txt
+2025-06-22 20:03:49,656 - Processed text file: case_048.txt
+2025-06-22 20:03:49,657 - Extracted nomor_perkara: 603 k pdt sus pailit 2024 for case_049.txt
+2025-06-22 20:03:49,659 - No ringkasan_fakta found in case_049.txt
+2025-06-22 20:03:49,660 - Extracted metadata from case_049.txt
+2025-06-22 20:03:49,661 - Processed text file: case_049.txt
+2025-06-22 20:03:49,662 - Extracted nomor_perkara: 606 k pdt sus pailit 2024 for case_050.txt
+2025-06-22 20:03:49,664 - No ringkasan_fakta found in case_050.txt
+2025-06-22 20:03:49,665 - Extracted metadata from case_050.txt
+2025-06-22 20:03:49,666 - Processed text file: case_050.txt
+2025-06-22 20:03:49,667 - Extracted nomor_perkara: 63 pk pdt sus pailit 2024 for case_051.txt
+2025-06-22 20:03:49,669 - Extracted metadata from case_051.txt
+2025-06-22 20:03:49,669 - Processed text file: case_051.txt
+2025-06-22 20:03:49,670 - Extracted nomor_perkara: 1473 k pdt sus pailit 2021 for case_052.txt
+2025-06-22 20:03:49,672 - No ringkasan_fakta found in case_052.txt
+2025-06-22 20:03:49,672 - Extracted metadata from case_052.txt
+2025-06-22 20:03:49,673 - Processed text file: case_052.txt
+2025-06-22 20:03:49,674 - Extracted nomor_perkara: 65 k pdt sus pailit 2025 for case_053.txt
+2025-06-22 20:03:49,676 - No ringkasan_fakta found in case_053.txt
+2025-06-22 20:03:49,677 - Extracted metadata from case_053.txt
+2025-06-22 20:03:49,678 - Processed text file: case_053.txt
+2025-06-22 20:03:49,679 - Extracted nomor_perkara: 66 k pdt sus pailit 2025 for case_054.txt
+2025-06-22 20:03:49,681 - No ringkasan_fakta found in case_054.txt
+2025-06-22 20:03:49,681 - Extracted metadata from case_054.txt
+2025-06-22 20:03:49,682 - Processed text file: case_054.txt
+2025-06-22 20:03:49,683 - Extracted nomor_perkara: 70 pk pdt sus pailit 2024 for case_055.txt
+2025-06-22 20:03:49,684 - No putusan found in case_055.txt. Sample text: inistrasi peninjauan kembali rp 9 980 000 00 jumlah rp10 000 000 00 untuk salinan mahkamah agung ri an panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:03:49,685 - Extracted metadata from case_055.txt
+2025-06-22 20:03:49,686 - Processed text file: case_055.txt
+2025-06-22 20:03:49,687 - Extracted nomor_perkara: 776 k pdt sus pailit 2024 for case_056.txt
+2025-06-22 20:03:49,689 - No ringkasan_fakta found in case_056.txt
+2025-06-22 20:03:49,690 - Extracted metadata from case_056.txt
+2025-06-22 20:03:49,691 - Processed text file: case_056.txt
+2025-06-22 20:03:49,692 - Extracted nomor_perkara: 777 k pdt sus pailit 2024 for case_057.txt
+2025-06-22 20:03:49,694 - No ringkasan_fakta found in case_057.txt
+2025-06-22 20:03:49,695 - Extracted metadata from case_057.txt
+2025-06-22 20:03:49,696 - Processed text file: case_057.txt
+2025-06-22 20:03:49,697 - Extracted nomor_perkara: 81 k pdt sus pailit 2025 for case_058.txt
+2025-06-22 20:03:49,700 - No ringkasan_fakta found in case_058.txt
+2025-06-22 20:03:49,701 - Extracted metadata from case_058.txt
+2025-06-22 20:03:49,702 - Processed text file: case_058.txt
+2025-06-22 20:03:49,704 - Extracted nomor_perkara: 846 k pdt sus pailit 2024 for case_059.txt
+2025-06-22 20:03:49,705 - No ringkasan_fakta found in case_059.txt
+2025-06-22 20:03:49,706 - Extracted metadata from case_059.txt
+2025-06-22 20:03:49,707 - Processed text file: case_059.txt
+2025-06-22 20:03:49,708 - Extracted nomor_perkara: 9 pk pdt sus pailit 2025 for case_060.txt
+2025-06-22 20:03:49,711 - Extracted metadata from case_060.txt
+2025-06-22 20:03:49,713 - Processed text file: case_060.txt
+2025-06-22 20:03:49,715 - Saved metadata to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 20:03:49,717 - Processed 60 files and saved to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 20:08:38,092 - Starting metadata extraction process at 20:08:38  on Sunday, June 22, 2025
+2025-06-22 20:08:38,094 - Found 60 text files to process in d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\raw
+2025-06-22 20:08:38,095 - Extracted nomor_perkara: 10 pk pdt sus pailit 2025 for case_001.txt
+2025-06-22 20:08:38,097 - Extracted metadata from case_001.txt
+2025-06-22 20:08:38,099 - Processed text file: case_001.txt
+2025-06-22 20:08:38,100 - Extracted nomor_perkara: 1178 k pdt sus pailit 2024 for case_002.txt
+2025-06-22 20:08:38,104 - Extracted metadata from case_002.txt
+2025-06-22 20:08:38,105 - Processed text file: case_002.txt
+2025-06-22 20:08:38,107 - Extracted nomor_perkara: 11 pk pdt sus pailit 2025 for case_003.txt
+2025-06-22 20:08:38,109 - Extracted metadata from case_003.txt
+2025-06-22 20:08:38,110 - Processed text file: case_003.txt
+2025-06-22 20:08:38,111 - Extracted nomor_perkara: 1227 k pdt sus pailit 2024 for case_004.txt
+2025-06-22 20:08:38,113 - Extracted metadata from case_004.txt
+2025-06-22 20:08:38,114 - Processed text file: case_004.txt
+2025-06-22 20:08:38,115 - Extracted nomor_perkara: 123 k pdt sus pailit 2025 for case_005.txt
+2025-06-22 20:08:38,117 - Extracted metadata from case_005.txt
+2025-06-22 20:08:38,119 - Processed text file: case_005.txt
+2025-06-22 20:08:38,120 - Extracted nomor_perkara: 12 pk pdt sus pailit 2025 for case_006.txt
+2025-06-22 20:08:38,122 - Extracted metadata from case_006.txt
+2025-06-22 20:08:38,123 - Processed text file: case_006.txt
+2025-06-22 20:08:38,124 - Extracted nomor_perkara: 1318 k pdt sus pailit 2024 for case_007.txt
+2025-06-22 20:08:38,126 - Extracted metadata from case_007.txt
+2025-06-22 20:08:38,127 - Processed text file: case_007.txt
+2025-06-22 20:08:38,129 - Extracted nomor_perkara: 1345 k pdt sus pailit 2024 for case_008.txt
+2025-06-22 20:08:38,130 - Extracted metadata from case_008.txt
+2025-06-22 20:08:38,131 - Processed text file: case_008.txt
+2025-06-22 20:08:38,132 - Extracted nomor_perkara: 134 k pdt sus pailit 2025 for case_009.txt
+2025-06-22 20:08:38,134 - Extracted metadata from case_009.txt
+2025-06-22 20:08:38,135 - Processed text file: case_009.txt
+2025-06-22 20:08:38,137 - Extracted nomor_perkara: 135 k pdt sus pailit 2025 for case_010.txt
+2025-06-22 20:08:38,139 - Extracted metadata from case_010.txt
+2025-06-22 20:08:38,140 - Processed text file: case_010.txt
+2025-06-22 20:08:38,141 - Extracted nomor_perkara: 137 k pdt sus pailit 2025 for case_011.txt
+2025-06-22 20:08:38,143 - Extracted metadata from case_011.txt
+2025-06-22 20:08:38,144 - Processed text file: case_011.txt
+2025-06-22 20:08:38,145 - Extracted nomor_perkara: 13 k pdt sus pailit 2025 for case_012.txt
+2025-06-22 20:08:38,147 - Extracted metadata from case_012.txt
+2025-06-22 20:08:38,148 - Processed text file: case_012.txt
+2025-06-22 20:08:38,149 - Extracted nomor_perkara: 13 pk pdt sus pailit 2025 for case_013.txt
+2025-06-22 20:08:38,151 - Extracted metadata from case_013.txt
+2025-06-22 20:08:38,151 - Processed text file: case_013.txt
+2025-06-22 20:08:38,152 - Extracted nomor_perkara: 15 pk pdt sus pailit 2025 for case_014.txt
+2025-06-22 20:08:38,156 - Extracted metadata from case_014.txt
+2025-06-22 20:08:38,157 - Processed text file: case_014.txt
+2025-06-22 20:08:38,159 - No nomor_perkara found in case_015.txt
+2025-06-22 20:08:38,160 - Extracted nomor_perkara:  for case_015.txt
+2025-06-22 20:08:38,161 - Extracted metadata from case_015.txt
+2025-06-22 20:08:38,163 - Processed text file: case_015.txt
+2025-06-22 20:08:38,165 - Extracted nomor_perkara: 17 pk pdt sus pailit 2025 for case_016.txt
+2025-06-22 20:08:38,167 - Extracted metadata from case_016.txt
+2025-06-22 20:08:38,168 - Processed text file: case_016.txt
+2025-06-22 20:08:38,171 - Extracted nomor_perkara: 185 k pdt sus pailit 2025 for case_017.txt
+2025-06-22 20:08:38,173 - Extracted metadata from case_017.txt
+2025-06-22 20:08:38,175 - Processed text file: case_017.txt
+2025-06-22 20:08:38,177 - Extracted nomor_perkara: 187 k pdt sus pailit 2025 for case_018.txt
+2025-06-22 20:08:38,180 - Extracted metadata from case_018.txt
+2025-06-22 20:08:38,182 - Processed text file: case_018.txt
+2025-06-22 20:08:38,184 - Extracted nomor_perkara: 203 k pdt sus pailit 2025 for case_019.txt
+2025-06-22 20:08:38,185 - Extracted metadata from case_019.txt
+2025-06-22 20:08:38,186 - Processed text file: case_019.txt
+2025-06-22 20:08:38,187 - Extracted nomor_perkara: 204 k pdt sus pailit 2025 for case_020.txt
+2025-06-22 20:08:38,191 - Extracted metadata from case_020.txt
+2025-06-22 20:08:38,193 - Processed text file: case_020.txt
+2025-06-22 20:08:38,196 - Extracted nomor_perkara: 24 k pdt sus pailit 2025 for case_021.txt
+2025-06-22 20:08:38,204 - Extracted metadata from case_021.txt
+2025-06-22 20:08:38,205 - Processed text file: case_021.txt
+2025-06-22 20:08:38,206 - Extracted nomor_perkara: 260 k pdt sus pailit 2025 for case_022.txt
+2025-06-22 20:08:38,208 - Extracted metadata from case_022.txt
+2025-06-22 20:08:38,209 - Processed text file: case_022.txt
+2025-06-22 20:08:38,211 - Extracted nomor_perkara: 261 k pdt sus pailit 2025 for case_023.txt
+2025-06-22 20:08:38,212 - Extracted metadata from case_023.txt
+2025-06-22 20:08:38,213 - Processed text file: case_023.txt
+2025-06-22 20:08:38,216 - Extracted nomor_perkara: 265 k pdt sus pailit 2025 for case_024.txt
+2025-06-22 20:08:38,217 - Extracted metadata from case_024.txt
+2025-06-22 20:08:38,219 - Processed text file: case_024.txt
+2025-06-22 20:08:38,220 - Extracted nomor_perkara: 277 k pdt sus pailit 2025 for case_025.txt
+2025-06-22 20:08:38,221 - Extracted metadata from case_025.txt
+2025-06-22 20:08:38,222 - Processed text file: case_025.txt
+2025-06-22 20:08:38,225 - Extracted nomor_perkara: 281 k pdt sus pailit 2025 for case_026.txt
+2025-06-22 20:08:38,228 - Extracted metadata from case_026.txt
+2025-06-22 20:08:38,230 - Processed text file: case_026.txt
+2025-06-22 20:08:38,231 - Extracted nomor_perkara: 297 k pdt sus pailit 2025 for case_027.txt
+2025-06-22 20:08:38,235 - Extracted metadata from case_027.txt
+2025-06-22 20:08:38,237 - Processed text file: case_027.txt
+2025-06-22 20:08:38,238 - Extracted nomor_perkara: 305 k pdt sus pailit 2025 for case_028.txt
+2025-06-22 20:08:38,240 - Extracted metadata from case_028.txt
+2025-06-22 20:08:38,241 - Processed text file: case_028.txt
+2025-06-22 20:08:38,242 - Extracted nomor_perkara: 307 k pdt sus pailit 2025 for case_029.txt
+2025-06-22 20:08:38,245 - Extracted metadata from case_029.txt
+2025-06-22 20:08:38,246 - Processed text file: case_029.txt
+2025-06-22 20:08:38,248 - Extracted nomor_perkara: 308 k pdt sus pailit 2025 for case_030.txt
+2025-06-22 20:08:38,250 - Extracted metadata from case_030.txt
+2025-06-22 20:08:38,250 - Processed text file: case_030.txt
+2025-06-22 20:08:38,252 - Extracted nomor_perkara: 323 k pdt sus pailit 2025 for case_031.txt
+2025-06-22 20:08:38,254 - Extracted metadata from case_031.txt
+2025-06-22 20:08:38,255 - Processed text file: case_031.txt
+2025-06-22 20:08:38,257 - Extracted nomor_perkara: 344 k pdt sus pailit 2025 for case_032.txt
+2025-06-22 20:08:38,260 - Extracted metadata from case_032.txt
+2025-06-22 20:08:38,261 - Processed text file: case_032.txt
+2025-06-22 20:08:38,263 - Extracted nomor_perkara: 36 k pdt sus pailit 2025 for case_033.txt
+2025-06-22 20:08:38,265 - Extracted metadata from case_033.txt
+2025-06-22 20:08:38,266 - Processed text file: case_033.txt
+2025-06-22 20:08:38,267 - Extracted nomor_perkara: 370 k pdt sus pailit 2025 for case_034.txt
+2025-06-22 20:08:38,269 - Extracted metadata from case_034.txt
+2025-06-22 20:08:38,270 - Processed text file: case_034.txt
+2025-06-22 20:08:38,271 - Extracted nomor_perkara: 38 k pdt sus pailit 2025 for case_035.txt
+2025-06-22 20:08:38,274 - Extracted metadata from case_035.txt
+2025-06-22 20:08:38,275 - Processed text file: case_035.txt
+2025-06-22 20:08:38,276 - No nomor_perkara found in case_036.txt
+2025-06-22 20:08:38,277 - Extracted nomor_perkara:  for case_036.txt
+2025-06-22 20:08:38,280 - No hakim_ketua found in case_036.txt
+2025-06-22 20:08:38,282 - Extracted metadata from case_036.txt
+2025-06-22 20:08:38,283 - Processed text file: case_036.txt
+2025-06-22 20:08:38,284 - Extracted nomor_perkara: 3 pk pdt sus pailit 2025 for case_037.txt
+2025-06-22 20:08:38,287 - Extracted metadata from case_037.txt
+2025-06-22 20:08:38,288 - Processed text file: case_037.txt
+2025-06-22 20:08:38,289 - Extracted nomor_perkara: 40 k pdt sus pailit 2025 for case_038.txt
+2025-06-22 20:08:38,291 - Extracted metadata from case_038.txt
+2025-06-22 20:08:38,293 - Processed text file: case_038.txt
+2025-06-22 20:08:38,294 - Extracted nomor_perkara: 417 k pdt sus pailit 2025 for case_039.txt
+2025-06-22 20:08:38,297 - Extracted metadata from case_039.txt
+2025-06-22 20:08:38,298 - Processed text file: case_039.txt
+2025-06-22 20:08:38,299 - Extracted nomor_perkara: 418 k pdt sus pailit 2025 for case_040.txt
+2025-06-22 20:08:38,301 - Extracted metadata from case_040.txt
+2025-06-22 20:08:38,302 - Processed text file: case_040.txt
+2025-06-22 20:08:38,303 - Extracted nomor_perkara: 420 k pdt sus pailit 2025 for case_041.txt
+2025-06-22 20:08:38,304 - Extracted metadata from case_041.txt
+2025-06-22 20:08:38,306 - Processed text file: case_041.txt
+2025-06-22 20:08:38,306 - Extracted nomor_perkara: 44 k pdt sus pailit 2025 for case_042.txt
+2025-06-22 20:08:38,310 - Extracted metadata from case_042.txt
+2025-06-22 20:08:38,313 - Processed text file: case_042.txt
+2025-06-22 20:08:38,314 - Extracted nomor_perkara: 45 k pdt sus pailit 2025 for case_043.txt
+2025-06-22 20:08:38,316 - Extracted metadata from case_043.txt
+2025-06-22 20:08:38,317 - Processed text file: case_043.txt
+2025-06-22 20:08:38,318 - Extracted nomor_perkara: 49 k pdt sus pailit 2025 for case_044.txt
+2025-06-22 20:08:38,319 - Extracted metadata from case_044.txt
+2025-06-22 20:08:38,320 - Processed text file: case_044.txt
+2025-06-22 20:08:38,322 - Extracted nomor_perkara: 4 pk pdt sus pailit 2025 for case_045.txt
+2025-06-22 20:08:38,323 - Extracted metadata from case_045.txt
+2025-06-22 20:08:38,324 - Processed text file: case_045.txt
+2025-06-22 20:08:38,326 - Extracted nomor_perkara: 573 k pdt sus pailit 2024 for case_046.txt
+2025-06-22 20:08:38,328 - Extracted metadata from case_046.txt
+2025-06-22 20:08:38,329 - Processed text file: case_046.txt
+2025-06-22 20:08:38,331 - Extracted nomor_perkara: 575 k pdt sus pailit 2024 for case_047.txt
+2025-06-22 20:08:38,333 - Extracted metadata from case_047.txt
+2025-06-22 20:08:38,335 - Processed text file: case_047.txt
+2025-06-22 20:08:38,336 - Extracted nomor_perkara: 5 k pdt sus pailit 2025 for case_048.txt
+2025-06-22 20:08:38,337 - Extracted metadata from case_048.txt
+2025-06-22 20:08:38,339 - Processed text file: case_048.txt
+2025-06-22 20:08:38,340 - Extracted nomor_perkara: 603 k pdt sus pailit 2024 for case_049.txt
+2025-06-22 20:08:38,342 - Extracted metadata from case_049.txt
+2025-06-22 20:08:38,342 - Processed text file: case_049.txt
+2025-06-22 20:08:38,343 - Extracted nomor_perkara: 606 k pdt sus pailit 2024 for case_050.txt
+2025-06-22 20:08:38,346 - Extracted metadata from case_050.txt
+2025-06-22 20:08:38,347 - Processed text file: case_050.txt
+2025-06-22 20:08:38,348 - Extracted nomor_perkara: 63 pk pdt sus pailit 2024 for case_051.txt
+2025-06-22 20:08:38,350 - Extracted metadata from case_051.txt
+2025-06-22 20:08:38,351 - Processed text file: case_051.txt
+2025-06-22 20:08:38,352 - Extracted nomor_perkara: 1473 k pdt sus pailit 2021 for case_052.txt
+2025-06-22 20:08:38,355 - Extracted metadata from case_052.txt
+2025-06-22 20:08:38,355 - Processed text file: case_052.txt
+2025-06-22 20:08:38,357 - Extracted nomor_perkara: 65 k pdt sus pailit 2025 for case_053.txt
+2025-06-22 20:08:38,358 - Extracted metadata from case_053.txt
+2025-06-22 20:08:38,359 - Processed text file: case_053.txt
+2025-06-22 20:08:38,360 - Extracted nomor_perkara: 66 k pdt sus pailit 2025 for case_054.txt
+2025-06-22 20:08:38,362 - Extracted metadata from case_054.txt
+2025-06-22 20:08:38,363 - Processed text file: case_054.txt
+2025-06-22 20:08:38,364 - Extracted nomor_perkara: 70 pk pdt sus pailit 2024 for case_055.txt
+2025-06-22 20:08:38,365 - No ringkasan_fakta found in case_055.txt. Sample text: inistrasi peninjauan kembali rp 9 980 000 00 jumlah rp10 000 000 00 untuk salinan mahkamah agung ri an panitera panitera muda perdata khusus h ahmad ardianda patria s h m hum nip 19621220 198612 1 001
+2025-06-22 20:08:38,366 - Extracted metadata from case_055.txt
+2025-06-22 20:08:38,367 - Processed text file: case_055.txt
+2025-06-22 20:08:38,368 - Extracted nomor_perkara: 776 k pdt sus pailit 2024 for case_056.txt
+2025-06-22 20:08:38,370 - Extracted metadata from case_056.txt
+2025-06-22 20:08:38,370 - Processed text file: case_056.txt
+2025-06-22 20:08:38,372 - Extracted nomor_perkara: 777 k pdt sus pailit 2024 for case_057.txt
+2025-06-22 20:08:38,374 - Extracted metadata from case_057.txt
+2025-06-22 20:08:38,375 - Processed text file: case_057.txt
+2025-06-22 20:08:38,376 - Extracted nomor_perkara: 81 k pdt sus pailit 2025 for case_058.txt
+2025-06-22 20:08:38,377 - Extracted metadata from case_058.txt
+2025-06-22 20:08:38,379 - Processed text file: case_058.txt
+2025-06-22 20:08:38,380 - Extracted nomor_perkara: 846 k pdt sus pailit 2024 for case_059.txt
+2025-06-22 20:08:38,381 - Extracted metadata from case_059.txt
+2025-06-22 20:08:38,382 - Processed text file: case_059.txt
+2025-06-22 20:08:38,384 - Extracted nomor_perkara: 9 pk pdt sus pailit 2025 for case_060.txt
+2025-06-22 20:08:38,385 - Extracted metadata from case_060.txt
+2025-06-22 20:08:38,386 - Processed text file: case_060.txt
+2025-06-22 20:08:38,389 - Saved metadata to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
+2025-06-22 20:08:38,389 - Processed 60 files and saved to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\COMPUTER_REASONING_CBR\CBR\data\processed\cases.csv
