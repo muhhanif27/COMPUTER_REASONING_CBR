@@ -1,0 +1,52 @@
+[
+  {
+    "query": "Permohonan peninjauan kembali dalam perkara kepailitan yang diajukan oleh debitur karena menganggap adanya kekeliruan nyata dalam putusan pengadilan niaga yang membatalkan kesepakatan perdamaian dan menyatakan debitur pailit berdasarkan ketentuan Pasal 285 ayat (2) huruf d UU No. 37 Tahun 2004",
+    "case_id": "case_001",
+    "solution": "Permohonan ditolak"
+  },
+  {
+    "query": "Upaya hukum kasasi oleh debitur dalam perkara kepailitan yang menolak putusan pengadilan niaga atas dalil ketidaksesuaian pencocokan piutang kreditur dengan nilai tagihan yang diajukan, sehingga tidak memenuhi unsur pailit sebagaimana diatur dalam UU Kepailitan",
+    "case_id": "case_002",
+    "solution": "Putusan dikuatkan"
+  },
+  {
+    "query": "Sengketa permohonan peninjauan kembali atas putusan pailit, di mana tim kurator mempersoalkan penafsiran hakim bahwa barang jaminan fidusia berupa stok marmer tidak termasuk dalam harta pailit, dengan dalil adanya bukti baru (novum) terkait kreditur separatis",
+    "case_id": "case_003",
+    "solution": "Permohonan dikabulkan"
+  },
+  {
+    "query": "Kasus kepailitan yang berfokus pada pengajuan kasasi oleh individu terkait putusan pailit, dengan keberatan terhadap penyitaan tanah dan bangunan pribadi yang dimasukkan sebagai harta pailit perusahaan tanpa bukti kepemilikan perusahaan",
+    "case_id": "case_004",
+    "solution": "Permohonan ditolak"
+  },
+  {
+    "query": "Perkara perdata khusus kepailitan di mana tim kurator mengajukan kasasi atas putusan pengadilan niaga yang mengabulkan bantahan renvoi prosedur, dengan dalih bahwa verifikasi tagihan kreditur tidak dilakukan karena debitur tidak menyampaikan dokumen keuangan",
+    "case_id": "case_005",
+    "solution": "Putusan dibatalkan"
+  },
+  {
+    "query": "Perselisihan mengenai penolakan permohonan peninjauan kembali yang diajukan oleh debitur terhadap putusan pailit, dengan argumentasi bahwa peralihan aset perusahaan sebelum pailit tidak memenuhi syarat hukum dan merugikan kreditur",
+    "case_id": "case_006",
+    "solution": "Permohonan ditolak"
+  },
+  {
+    "query": "Permohonan kasasi yang diajukan oleh beberapa pihak terkait perkara kepailitan perusahaan, dengan pokok keberatan terhadap mekanisme penetapan kurator dan pengurus dalam proses insolvensi",
+    "case_id": "case_007",
+    "solution": "Permohonan dikabulkan sebagian"
+  },
+  {
+    "query": "Sengketa dalam ranah kepailitan antara kreditur dan debitur mengenai kasasi atas putusan pengadilan yang menyatakan perusahaan pailit meskipun belum terbukti adanya gagal bayar terhadap dua kreditur",
+    "case_id": "case_008",
+    "solution": "Putusan dibatalkan"
+  },
+  {
+    "query": "Pengajuan kasasi dalam perkara perdata khusus kepailitan yang berkaitan dengan keberatan debitur atas penolakan permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) oleh pengadilan niaga",
+    "case_id": "case_009",
+    "solution": "Permohonan ditolak"
+  },
+  {
+    "query": "Permohonan kasasi yang diajukan oleh perusahaan debitur dalam perkara kepailitan yang menyoal legalitas dokumen utang dan hubungan hukum dengan para kreditur sebagai dasar pemohonan pailit",
+    "case_id": "case_010",
+    "solution": "Permohonan ditolak"
+  }
+]
